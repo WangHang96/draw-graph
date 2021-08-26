@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-26T09:33:52.613Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="jI98KpomEDReRkmWoGML" version="14.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-26T09:35:13.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="Uq85bFD16t_f2U9xAEo-" version="14.9.9" type="github">
   <diagram id="6AvrPNXlWnlGHvyuXoXP" name="Page-1">
     <mxGraphModel dx="1940" dy="3060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -365,7 +365,7 @@
           <mxGeometry x="-690" y="1950" width="710" height="300" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--3" value="" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="980" width="385" height="130" as="geometry" />
+          <mxGeometry x="-152.5" y="980" width="362.5" height="130" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--4" value="" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="-822" y="979" width="612" height="131" as="geometry" />
@@ -401,13 +401,13 @@
           <mxGeometry x="-222" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--20" value="" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="1169" width="1010" height="121" as="geometry" />
+          <mxGeometry x="-820" y="1169" width="1030" height="121" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--22" value="调度" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-402" y="1204" width="120" height="60" as="geometry" />
+          <mxGeometry x="-350" y="1204" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--24" value="" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="1350" width="1010" height="100" as="geometry" />
+          <mxGeometry x="-820" y="1350" width="1030" height="100" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--25" value="专送" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="-701.5" y="1370" width="120" height="60" as="geometry" />
@@ -416,7 +416,7 @@
           <mxGeometry x="-500" y="1370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--27" value="定价" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-207" y="1204" width="120" height="60" as="geometry" />
+          <mxGeometry x="-153" y="1204" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--28" value="履约" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-820" y="1169" width="40" height="20" as="geometry" />
@@ -431,13 +431,13 @@
           <mxGeometry x="-820" y="1450" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--34" value="骑手运营" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="1450" width="520" height="60" as="geometry" />
+          <mxGeometry x="-330" y="1450" width="540" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--36" value="帮买帮送" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="-500" y="1010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--38" value="分流" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
-          <mxGeometry x="-580" y="1204" width="120" height="60" as="geometry" />
+          <mxGeometry x="-550" y="1204" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="97FblaI1X8OWWIPoT20--39" value="运单" style="whiteSpace=wrap;html=1;comic=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="1204" width="120" height="60" as="geometry" />
