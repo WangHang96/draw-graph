@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T14:31:45.692Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="YKKfaoaZvP8ijKyZMM3V" version="14.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-13T14:38:23.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="-xcR9HjFK8Zr2MJvxHg4" version="14.9.9" type="github" pages="2">
   <diagram id="6AvrPNXlWnlGHvyuXoXP" name="Page-1">
     <mxGraphModel dx="2113" dy="3168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -682,7 +682,7 @@
             <mxPoint x="138.57352941176464" y="2670" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-87" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-87" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;entryX=0.575;entryY=0.622;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gJrF_IuIlL-Nv5l5AZRN-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="138.75" y="2820" as="targetPoint" />
             <mxPoint x="350.75" y="2820" as="sourcePoint" />
@@ -735,7 +735,7 @@
         <mxCell id="gJrF_IuIlL-Nv5l5AZRN-103" value="商家列表T计算" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="1650" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-108" value="查询分段T" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="gJrF_IuIlL-Nv5l5AZRN-107" parent="1">
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-108" value="查询分段T" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" target="gJrF_IuIlL-Nv5l5AZRN-107" parent="1" source="gJrF_IuIlL-Nv5l5AZRN-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-96.25" y="3480" as="sourcePoint" />
           </mxGeometry>
@@ -772,21 +772,13 @@
         </mxCell>
         <mxCell id="gJrF_IuIlL-Nv5l5AZRN-63" value="生成运单" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="gJrF_IuIlL-Nv5l5AZRN-62" parent="gJrF_IuIlL-Nv5l5AZRN-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-295" y="424.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;comic=0;" vertex="1" parent="gJrF_IuIlL-Nv5l5AZRN-41">
-          <mxGeometry x="43" y="587" width="10" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-68" value="分流系统调用，并行呼单" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="gJrF_IuIlL-Nv5l5AZRN-67" parent="gJrF_IuIlL-Nv5l5AZRN-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-17" y="587" as="sourcePoint" />
+            <mxPoint x="-25" y="424.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gJrF_IuIlL-Nv5l5AZRN-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;comic=0;" vertex="1" parent="gJrF_IuIlL-Nv5l5AZRN-41">
           <mxGeometry x="45" y="737" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-73" value="运单" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="gJrF_IuIlL-Nv5l5AZRN-72" parent="gJrF_IuIlL-Nv5l5AZRN-41">
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-73" value="确认运力" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="gJrF_IuIlL-Nv5l5AZRN-72" parent="gJrF_IuIlL-Nv5l5AZRN-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-15" y="737" as="sourcePoint" />
           </mxGeometry>
@@ -814,6 +806,71 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-480" y="2680" as="targetPoint" />
             <mxPoint x="-222.5" y="2680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-67" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="3150" width="10" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-68" value="并行呼单" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="gJrF_IuIlL-Nv5l5AZRN-67" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="3160" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-123" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="345.25" y="3000" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-124" value="调用算法(带卡餐)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="gJrF_IuIlL-Nv5l5AZRN-123">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="134.25" y="3000" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-125" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" target="gJrF_IuIlL-Nv5l5AZRN-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="138.75" y="3014.5" as="targetPoint" />
+            <mxPoint x="350.75" y="3014.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-128" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="346.93" y="3180" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-129" value="调用算法(带卡餐)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="gJrF_IuIlL-Nv5l5AZRN-128">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135.93" y="3180" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-130" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130.00142857142845" y="3194.5" as="targetPoint" />
+            <mxPoint x="352.43" y="3194.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-131" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="346.93" y="3320" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-132" value="调用算法(带卡餐)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="gJrF_IuIlL-Nv5l5AZRN-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135.93" y="3320" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-133" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130.00142857142845" y="3334.5" as="targetPoint" />
+            <mxPoint x="352.43" y="3334.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-134" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;comic=0;" vertex="1" parent="1">
+          <mxGeometry x="346.93" y="3490" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-135" value="调用算法(带卡餐)" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="gJrF_IuIlL-Nv5l5AZRN-134">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="135.93" y="3490" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJrF_IuIlL-Nv5l5AZRN-136" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130.00142857142845" y="3504.5" as="targetPoint" />
+            <mxPoint x="352.43" y="3504.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
