@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T04:17:00.362Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="m5OEdxVyxQQ6Pp2dXVpZ" version="15.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T06:41:02.796Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="niGlBjFcqP2cn_eaicXc" version="15.3.5" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="4085" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -858,34 +858,67 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E5TletpsyKjZHeqUfo8F-1" value="并行呼单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-950" y="3980" width="80" height="20" as="geometry" />
+          <mxGeometry x="-960" y="3980" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="E5TletpsyKjZHeqUfo8F-2" value="逆向单逻辑&lt;br&gt;直接返回" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="4040" width="120" height="60" as="geometry" />
+          <mxGeometry x="-960" y="4030" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E5TletpsyKjZHeqUfo8F-3" value="buildContext" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-960" y="4140" width="120" height="60" as="geometry" />
+          <mxGeometry x="-960" y="4140" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E5TletpsyKjZHeqUfo8F-4" value="preSetContext&lt;br&gt;设置预定单标识，&lt;br&gt;设置context运单创建时间" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-990" y="4240" width="180" height="80" as="geometry" />
+          <mxGeometry x="-960" y="4250" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="E5TletpsyKjZHeqUfo8F-5" value="doPredict" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="4370" width="120" height="60" as="geometry" />
+          <mxGeometry x="-960" y="4370" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="E5TletpsyKjZHeqUfo8F-6" value="即时单处理&lt;br&gt;兜底T逻辑" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-970" y="4470" width="120" height="60" as="geometry" />
+        <mxCell id="E5TletpsyKjZHeqUfo8F-6" value="即时单处理&lt;br&gt;兜底T逻辑" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="4470" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="E5TletpsyKjZHeqUfo8F-7" value="&lt;br&gt;即时单处理isUseShippingDeliveryTime&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-999" y="4590" width="230" height="80" as="geometry" />
+        <mxCell id="E5TletpsyKjZHeqUfo8F-7" value="&lt;br&gt;即时单处理isUseShippingDeliveryTime&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-965" y="4592" width="245" height="84" as="geometry" />
         </mxCell>
         <mxCell id="E5TletpsyKjZHeqUfo8F-8" value="未变更运力&lt;br&gt;判断是否使用运单上原来的骑手T&lt;br&gt;前一次骑手T大于当前骑手T，则使用之前的&lt;br&gt;当前时间与订单生成时间没有超时10min，使用之前的&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-750" y="4580" width="361" height="100" as="geometry" />
+          <mxGeometry x="-691" y="4584" width="361" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="E5TletpsyKjZHeqUfo8F-10" value="预定单处理isTriggerBookedOrderCatchAllT" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="-999" y="4740" width="249" height="90" as="geometry" />
+        <mxCell id="E5TletpsyKjZHeqUfo8F-10" value="预定单处理isTriggerBookedOrderCatchAllT" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="4740" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="E5TletpsyKjZHeqUfo8F-13" value="预定单当前时间+兜底T &amp;gt; 最晚送达时间&lt;br&gt;则将最晚送达时间设置成前两者相加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-715" y="4770" width="280" height="30" as="geometry" />
+          <mxGeometry x="-680" y="4770" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-15" value="即时单处理" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-934.5" y="4980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-16" value="" style="shape=flexArrow;endArrow=classic;html=1;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;width=17.647058823529413;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-780" y="5010" as="sourcePoint" />
+            <mxPoint x="-420" y="5010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-20" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="E5TletpsyKjZHeqUfo8F-18" target="E5TletpsyKjZHeqUfo8F-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-22" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="E5TletpsyKjZHeqUfo8F-18" target="E5TletpsyKjZHeqUfo8F-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-18" value="&lt;span&gt;众包 &amp;amp;&amp;amp;&amp;nbsp; 专人直送？&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-241.5" y="4850" width="163" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-19" value="查TRecord" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="5070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-21" value="" style="whiteSpace=wrap;html=1;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="-61.25" y="5080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-23" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="4990" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-24" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-82.5" y="4990" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E5TletpsyKjZHeqUfo8F-25" value="出餐后呼单补T" style="whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="5180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
