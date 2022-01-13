@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-13T09:18:03.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="RkH_vdrLJxICnkBwn9RN" version="15.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-13T09:22:56.162Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="gH7yW0J1X0_Xj8kKquk8" version="15.8.6" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="3005" dy="729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1522,6 +1522,9 @@
         <mxCell id="kSpTlPhXk6LOheyk7qJw-6" value="更新apollo呼单记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2807.5" y="2230" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-8" target="kSpTlPhXk6LOheyk7qJw-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kSpTlPhXk6LOheyk7qJw-8" value="插入并行呼单记录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2807.5" y="2380" width="210" height="80" as="geometry" />
         </mxCell>
@@ -1530,9 +1533,6 @@
         </mxCell>
         <mxCell id="kSpTlPhXk6LOheyk7qJw-14" value="即时单构建并行呼单记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3575" y="1880" width="175" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kSpTlPhXk6LOheyk7qJw-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4339" y="1970" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kSpTlPhXk6LOheyk7qJw-16" value="预定单构建并行呼单记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4356.5" y="1880" width="175" height="60" as="geometry" />
@@ -1603,17 +1603,62 @@
         <mxCell id="kSpTlPhXk6LOheyk7qJw-43" value="&lt;span&gt;即时单新询T&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3615" y="2610" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-44" target="kSpTlPhXk6LOheyk7qJw-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kSpTlPhXk6LOheyk7qJw-44" value="构建询T参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3560" y="2666.5" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-45" target="kSpTlPhXk6LOheyk7qJw-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kSpTlPhXk6LOheyk7qJw-45" value="preSetContext" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3557.5" y="2805.5" width="210" height="80" as="geometry" />
+          <mxGeometry x="3560" y="2805.5" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-46" target="kSpTlPhXk6LOheyk7qJw-47">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kSpTlPhXk6LOheyk7qJw-46" value="doPredict" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3560" y="2940" width="210" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-47" target="kSpTlPhXk6LOheyk7qJw-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kSpTlPhXk6LOheyk7qJw-47" value="zbCatchAllT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3557.5" y="3070" width="210" height="80" as="geometry" />
+          <mxGeometry x="3560" y="3070" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-48" value="新骑手T兜底逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="3210" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-59" target="kSpTlPhXk6LOheyk7qJw-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-59" value="构建询T参数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4339" y="1950" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-61" target="kSpTlPhXk6LOheyk7qJw-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-61" value="preSetContext" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4339" y="2089" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-62" target="kSpTlPhXk6LOheyk7qJw-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-62" value="doPredict" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4339" y="2223.5" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-63" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;pingfang sc&amp;#34;&quot;&gt;预定单兜底规则&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4339" y="2370" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kSpTlPhXk6LOheyk7qJw-65" target="kSpTlPhXk6LOheyk7qJw-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-65" value="更新TCase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2807.5" y="2511.5" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSpTlPhXk6LOheyk7qJw-67" value="更新调度T" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2807.5" y="2650" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
