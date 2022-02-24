@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T06:17:26.709Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1hMeq7BdMSbo5xmiRC_0" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T06:19:26.537Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="cuSvoidYy81vkmxw-iwF" version="16.5.6" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="2915" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2103,6 +2103,12 @@
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-32" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-957.5" y="9890" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-35" value="开始" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-323.25" y="9660" width="156.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-37" value="是否过规则标识" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-307.5" y="9780" width="135" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
