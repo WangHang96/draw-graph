@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T08:21:25.608Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wRqB6bcWVJskGKSIPY-o" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T08:29:48.708Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="uzXaDrEu5lRqVaOssfpT" version="16.5.6" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="4237" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2328,16 +2328,34 @@
           <mxGeometry x="5255" y="1095" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-134" value="查网格压力数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5560" y="1220" width="160" height="60" as="geometry" />
+          <mxGeometry x="4975" y="1322.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-135" value="根据gridId批量查网格压力数据，&lt;br&gt;网格id来源于商户详情" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5261" y="1235" width="230" height="30" as="geometry" />
+          <mxGeometry x="4685" y="1335" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-136" value="查网格zb统计数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5560" y="1350" width="160" height="60" as="geometry" />
+          <mxGeometry x="4975" y="1457.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-137" value="根据gridIds批量查网格zb统计数据，&lt;br&gt;网格id来源于商户详情" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5255" y="1370" width="260" height="30" as="geometry" />
+          <mxGeometry x="4670" y="1472.5" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-138" value="查商户zb统计数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5550" y="1320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-139" value="根据retailerId批量查商户zb统计数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5280" y="1340" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-141" value="查商户未处理配送单量" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5550" y="1457.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-142" value="根据retailerId批量查商户未处理配送单量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5265" y="1477.5" width="280" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-144" value="查商户30min配送时长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5550" y="1580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-145" value="根据retailerId批量查商户30min配送时长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5265" y="1600" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
