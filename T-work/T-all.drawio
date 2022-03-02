@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T06:14:41.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-c7_vPViFIFybytmjttt" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T06:18:28.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ra4uOL2a1YJaHCE6CeL_" version="16.5.6" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="4409" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2476,6 +2476,21 @@
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-192" value="如果没有则走算法两个场景" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="6290" y="3303.5" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-194" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5734" y="3550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-195" value="查询商户详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5735" y="3680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-196" value="ka计算链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5515" y="3820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-197" value="商户规则计算链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5735" y="3820" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-198" value="算法计算链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5980" y="3820" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
