@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-02T08:16:31.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="O12lRjy9yd8BJSdaSVM5" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-02T08:18:03.407Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="KMedeeqgNEgJlLryWmEf" version="16.5.6" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="4409" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2634,11 +2634,17 @@
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-225" value="算法 caculator" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="7410" y="3600" width="110" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-260" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qDP3Hpl89R7axa0EM4YJ-227" target="qDP3Hpl89R7axa0EM4YJ-228">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-227" value="餐饮handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="7260" y="3778.5" width="160" height="60" as="geometry" />
+          <mxGeometry x="7290" y="3775.5" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-228" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7390" y="3900" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-261" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qDP3Hpl89R7axa0EM4YJ-231" target="qDP3Hpl89R7axa0EM4YJ-228">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-231" value="新零售handler" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7500" y="3775.5" width="160" height="60" as="geometry" />
