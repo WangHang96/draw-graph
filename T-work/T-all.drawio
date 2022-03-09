@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-09T07:24:03.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2O3e9j2p_wxuuFX1ctX6" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-09T07:26:32.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WflH6Kw4pJLn0hlj3gPM" version="16.5.6" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="4409" dy="1344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2454,11 +2454,13 @@
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-180" value="入参：网格 / 商户经纬度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5986" y="3128.5" width="180" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="qDP3Hpl89R7axa0EM4YJ-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDP3Hpl89R7axa0EM4YJ-194" target="qDP3Hpl89R7axa0EM4YJ-282">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-284" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDP3Hpl89R7axa0EM4YJ-194" target="qDP3Hpl89R7axa0EM4YJ-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5611" y="3938" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="qDP3Hpl89R7axa0EM4YJ-194" value="查询商户详情" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5532" y="3838.5" width="160" height="60" as="geometry" />
+        <mxCell id="qDP3Hpl89R7axa0EM4YJ-194" value="查询商户、&lt;span&gt;自设规则、新零售标识&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5531" y="3945" width="159" height="55" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-243" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.462;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qDP3Hpl89R7axa0EM4YJ-195" target="qDP3Hpl89R7axa0EM4YJ-240">
           <mxGeometry relative="1" as="geometry" />
@@ -2545,7 +2547,7 @@
           <mxGeometry x="6330" y="3860" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-219" value="实时商户T整体流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="5535" y="3670" width="140" height="20" as="geometry" />
+          <mxGeometry x="5541" y="3770" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-256" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDP3Hpl89R7axa0EM4YJ-220" target="qDP3Hpl89R7axa0EM4YJ-221">
           <mxGeometry relative="1" as="geometry" />
@@ -2596,7 +2598,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-262" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5531" y="3730" width="160" height="60" as="geometry" />
+          <mxGeometry x="5531" y="3820" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-264" value="餐饮handler" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="7630" y="3560" width="100" height="20" as="geometry" />
@@ -2651,12 +2653,6 @@
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-273" value="调用算法新零售接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="7900" y="3945" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="qDP3Hpl89R7axa0EM4YJ-283" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qDP3Hpl89R7axa0EM4YJ-282" target="qDP3Hpl89R7axa0EM4YJ-195">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qDP3Hpl89R7axa0EM4YJ-282" value="设置自设label、新零售标识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5531" y="3938" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qDP3Hpl89R7axa0EM4YJ-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qDP3Hpl89R7axa0EM4YJ-286" target="qDP3Hpl89R7axa0EM4YJ-294">
           <mxGeometry relative="1" as="geometry">
