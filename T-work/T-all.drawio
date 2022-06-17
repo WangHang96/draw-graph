@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T06:23:47.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="niYJyBOpCKF2eZpKPSNz" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T08:31:26.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="xuxBQJ04_Yxn6ETPMqcy" version="17.5.0" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="2915" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3657,16 +3657,11 @@
           <mxGeometry x="45" y="124" width="10" height="46" as="geometry" />
         </mxCell>
         <mxCell id="hsqVcIm3J7nbKrXu8Te5-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hsqVcIm3J7nbKrXu8Te5-8">
-          <mxGeometry x="44" y="464" width="10" height="466" as="geometry" />
+          <mxGeometry x="44" y="464" width="10" height="476" as="geometry" />
         </mxCell>
         <mxCell id="hsqVcIm3J7nbKrXu8Te5-21" value="协同/零售询T （&lt;font color=&quot;#ff3333&quot;&gt;增加品类、业务身份&lt;/font&gt;）" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="hsqVcIm3J7nbKrXu8Te5-20" parent="hsqVcIm3J7nbKrXu8Te5-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-100" y="464" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hsqVcIm3J7nbKrXu8Te5-22" value="询T结果" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="hsqVcIm3J7nbKrXu8Te5-20" parent="hsqVcIm3J7nbKrXu8Te5-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-90" y="904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hsqVcIm3J7nbKrXu8Te5-29" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="hsqVcIm3J7nbKrXu8Te5-8">
@@ -3755,6 +3750,11 @@
         <mxCell id="hsqVcIm3J7nbKrXu8Te5-43" value="&lt;font color=&quot;#ff3333&quot;&gt;算法时间片场景&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;fontColor=#000000;" edge="1" source="hsqVcIm3J7nbKrXu8Te5-41" parent="1" target="hsqVcIm3J7nbKrXu8Te5-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="3655" y="11596" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsqVcIm3J7nbKrXu8Te5-22" value="询T结果（时间片，&lt;font color=&quot;#ff3333&quot;&gt;触发原因&lt;/font&gt;）" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;rounded=0;" edge="1" source="hsqVcIm3J7nbKrXu8Te5-20" parent="1" target="hsqVcIm3J7nbKrXu8Te5-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3130" y="11690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
