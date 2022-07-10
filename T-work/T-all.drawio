@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T15:32:47.737Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="cwSdzpEdCggT5c6epQ7Q" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T15:33:30.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="ceQ7lBet9tvY1zgAF6Jb" version="17.5.0" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="3546" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4546,8 +4546,8 @@
         <mxCell id="jyTcWoPzErt4685i0qPK-334" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
           <mxGeometry x="8380" y="6110" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jyTcWoPzErt4685i0qPK-335" value="基础运维" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="8306" y="5550" width="80" height="20" as="geometry" />
+        <mxCell id="jyTcWoPzErt4685i0qPK-335" value="运维" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="8310" y="5550" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
