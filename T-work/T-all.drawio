@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T07:58:57.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="JeoEHipuXSHi66ScI5th" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T08:00:27.495Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="fxSzB7-c4tCik5Proiah" version="17.5.0" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="4508" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5223,6 +5223,18 @@
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-163" value="商户出餐时间范围与&lt;br&gt;物流营业时间范围取交集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2025" y="12832.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-164" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-1400" y="12810" width="30" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-165" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-1240" y="12800" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-166" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-933" y="12807.5" width="30" height="17.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-167" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-768.75" y="12803.75" width="118.75" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
