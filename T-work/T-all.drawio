@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T07:55:58.731Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="mzzvFwXxaEptH79HWJQY" version="17.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-20T07:58:57.797Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="JeoEHipuXSHi66ScI5th" version="17.5.0" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="4508" dy="1129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5096,7 +5096,7 @@
           <mxGeometry x="-720" y="12610" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-91" value="3.物流营业时间范围" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2025" y="12556.25" width="150" height="20" as="geometry" />
+          <mxGeometry x="-2030" y="12556.25" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-94" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1166.5" y="12580" width="10" height="20" as="geometry" />
@@ -5117,7 +5117,7 @@
           <mxGeometry x="-1136.5" y="12590" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-120" value="" style="shape=requiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="-925.5" y="12552.5" width="275" height="27.5" as="geometry" />
+          <mxGeometry x="-930" y="12552.5" width="279.5" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-121" value="10:00" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-945" y="12590" width="50" height="20" as="geometry" />
@@ -5165,19 +5165,64 @@
           <mxGeometry x="-670" y="12837.5" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-152" value="4.骑手取餐时间范围" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2020" y="12800" width="150" height="20" as="geometry" />
+          <mxGeometry x="-2030" y="12800" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-153" value="（限定商户在营业时间内出餐）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-2025" y="12375" width="230" height="20" as="geometry" />
+          <mxGeometry x="-2030" y="12370" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-154" value="以专送为例" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1770.13" y="12770" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XbuPu3IkXXRg0Qd9zwa2-155" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1400" y="13080" as="sourcePoint" />
+            <mxPoint x="-1400" y="12830" as="sourcePoint" />
             <mxPoint x="-1400" y="12365" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-156" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1368.87" y="12825" as="sourcePoint" />
+            <mxPoint x="-1368.87" y="12360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-157" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1240" y="12825" as="sourcePoint" />
+            <mxPoint x="-1240" y="12360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-158" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1125" y="12830" as="sourcePoint" />
+            <mxPoint x="-1125" y="12365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-159" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-930" y="12832.5" as="sourcePoint" />
+            <mxPoint x="-930" y="12367.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-160" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-903.87" y="12832.5" as="sourcePoint" />
+            <mxPoint x="-903.87" y="12367.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-161" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-770.9999999999999" y="12830" as="sourcePoint" />
+            <mxPoint x="-770.9999999999999" y="12365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-162" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-650" y="12825" as="sourcePoint" />
+            <mxPoint x="-650" y="12360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XbuPu3IkXXRg0Qd9zwa2-163" value="商户出餐时间范围与&lt;br&gt;物流营业时间范围取交集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2025" y="12832.5" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
