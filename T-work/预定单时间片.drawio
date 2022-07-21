@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T02:48:28.117Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Gg_S8S9-8Bo__2SD1Z_4" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T08:27:19.717Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1sYdRgpUhmItn2BAhkix" version="20.1.3" type="github">
   <diagram id="dV-8XggYrdHnV9W1wqsp" name="第 1 页">
-    <mxGraphModel dx="6613" dy="-9586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4583" dy="-10552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -731,16 +731,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGyewd1HaiOMTMRlGh1_-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGyewd1HaiOMTMRlGh1_-85">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-60" y="14630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qGyewd1HaiOMTMRlGh1_-134" value="查看首页浮窗" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qGyewd1HaiOMTMRlGh1_-133">
-          <mxGeometry x="0.7029" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qGyewd1HaiOMTMRlGh1_-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qGyewd1HaiOMTMRlGh1_-85">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="14640" as="targetPoint" />
@@ -838,11 +828,17 @@
         <mxCell id="qGyewd1HaiOMTMRlGh1_-139" value="RD：渊盛&lt;br&gt;PD：&lt;span style=&quot;color: rgb(18, 20, 22); font-family: &amp;quot;PingFang SC&amp;quot;; font-size: 14px; text-align: start; background-color: initial;&quot;&gt;楔丸&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-365" y="14440" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="qGyewd1HaiOMTMRlGh1_-140" value="RD：渊盛&lt;br&gt;PD：&lt;span style=&quot;color: rgb(18, 20, 22); font-family: &amp;quot;PingFang SC&amp;quot;; font-size: 14px; text-align: start; background-color: initial;&quot;&gt;楔丸&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="14420" width="90" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="qGyewd1HaiOMTMRlGh1_-141" value="RD：渊盛&lt;br&gt;PD：&lt;span style=&quot;color: rgb(18, 20, 22); font-family: &amp;quot;PingFang SC&amp;quot;; font-size: 14px; text-align: start; background-color: initial;&quot;&gt;楔丸&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="14420" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qGyewd1HaiOMTMRlGh1_-142" value="RD：桥溪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1570" y="14760" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGyewd1HaiOMTMRlGh1_-143" value="同订单列表，查alsc-personal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="14675" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGyewd1HaiOMTMRlGh1_-144" value="同订单列表，查alsc-personal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="14675" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
