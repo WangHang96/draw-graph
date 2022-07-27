@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T08:04:19.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="q0PlBNnf7ArCTuTKemNI" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T09:14:31.238Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2Uh_Q_hD3yLAIhVkOFgV" version="20.1.4" type="github">
   <diagram id="dV-8XggYrdHnV9W1wqsp" name="第 1 页">
     <mxGraphModel dx="6237" dy="-9637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -911,6 +911,9 @@
         <mxCell id="U-tEapl8ierXkM77zoot-24" value="手动呼单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1476.37" y="13415" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="U-tEapl8ierXkM77zoot-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-tEapl8ierXkM77zoot-26" target="U-tEapl8ierXkM77zoot-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-26" value="lpd_infra.&lt;br&gt;prediction_biz" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1942.13" y="15340" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1116,6 +1119,9 @@
         </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-141" value="预定单时间片-下单主链路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-2150" y="14560" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="U-tEapl8ierXkM77zoot-142" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(18, 20, 22); text-align: start;&quot; class=&quot;p1&quot;&gt;lpd_infra.t_model&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-1942.13" y="15500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
