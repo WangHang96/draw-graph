@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T02:48:54.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_B6dyhzJlqeXEu8dq4Dz" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T04:03:37.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="P_KskZB6iekIXgrIykRk" version="20.1.4" type="github">
   <diagram id="dV-8XggYrdHnV9W1wqsp" name="第 1 页">
-    <mxGraphModel dx="4547" dy="-10646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4058" dy="-10845" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -911,7 +911,7 @@
         <mxCell id="U-tEapl8ierXkM77zoot-24" value="手动呼单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1476.37" y="13415" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U-tEapl8ierXkM77zoot-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U-tEapl8ierXkM77zoot-26" target="U-tEapl8ierXkM77zoot-142" edge="1">
+        <mxCell id="U-tEapl8ierXkM77zoot-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="U-tEapl8ierXkM77zoot-26" target="U-tEapl8ierXkM77zoot-142" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-26" value="lpd_infra.&lt;br&gt;prediction_biz" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -1052,6 +1052,9 @@
         <mxCell id="U-tEapl8ierXkM77zoot-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="U-tEapl8ierXkM77zoot-84" target="U-tEapl8ierXkM77zoot-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U-tEapl8ierXkM77zoot-84" target="aiOidGFID3Y_s_JYiYBP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-84" value="trade.&lt;br&gt;trans_delivery" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-553" y="15197" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1066,14 +1069,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-tEapl8ierXkM77zoot-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="U-tEapl8ierXkM77zoot-85" target="U-tEapl8ierXkM77zoot-120" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-493" y="15090" />
-              <mxPoint x="-313" y="15090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-85" value="fulfill.&lt;br&gt;order_core" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-553" y="14935" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1083,17 +1078,17 @@
         <mxCell id="U-tEapl8ierXkM77zoot-86" value="fulfill.&lt;br&gt;order_prod" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-200" y="14935" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-tEapl8ierXkM77zoot-106" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;接单&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;手动呼单&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;转自配送-呼物流单&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-388.24" y="14890" width="150" height="70" as="geometry" />
+        <mxCell id="U-tEapl8ierXkM77zoot-106" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;接单&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;全推-手动呼单&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;选推&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-373.24" y="14890" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="U-tEapl8ierXkM77zoot-107" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;接单&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;手动呼单&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;转自配送-呼物流单&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="14890" width="150" height="70" as="geometry" />
+        <mxCell id="U-tEapl8ierXkM77zoot-107" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;接单&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;全推-手动呼单&lt;/span&gt;&lt;br style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;选推&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="115" y="14890" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-109" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;接单&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-670" y="14930" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-113" value="&lt;span style=&quot;font-size: 11px; background-color: rgb(255, 255, 255);&quot;&gt;手动呼单&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-640" y="15060" width="80" height="30" as="geometry" />
+          <mxGeometry x="-580" y="15050" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-116" value="触达商家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="14750" width="80" height="30" as="geometry" />
@@ -1101,27 +1096,26 @@
         <mxCell id="U-tEapl8ierXkM77zoot-118" value="apollo" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-553" y="15440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="U-tEapl8ierXkM77zoot-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="U-tEapl8ierXkM77zoot-120" target="U-tEapl8ierXkM77zoot-118" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-313" y="15470" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="U-tEapl8ierXkM77zoot-120" value="anubls" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-373.24" y="15310" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-128" value="自动呼单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-775" y="15145" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="U-tEapl8ierXkM77zoot-139" value="转自配送-呼物流单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-400" y="15055" width="150" height="30" as="geometry" />
+          <mxGeometry x="-771.63" y="15180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-141" value="预定单时间片-下单主链路" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-2150" y="14560" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-tEapl8ierXkM77zoot-142" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 14px; line-height: normal; color: rgb(18, 20, 22); text-align: start;&quot; class=&quot;p1&quot;&gt;lpd_infra.t_model&lt;/p&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-1942.13" y="15500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-1" value="蜂鸟跑腿" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="15197" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-5" value="选推" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-388.24" y="15190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-6" value="json 透传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="15190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-8" value="json 透传" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="15320" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
