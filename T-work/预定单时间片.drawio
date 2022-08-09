@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T07:59:38.360Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xDTKLnmS747v80dOvnnr" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T03:20:47.973Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GR7LRtYBzS0dO3sUOEin" version="20.1.4" type="github">
   <diagram id="dV-8XggYrdHnV9W1wqsp" name="第 1 页">
-    <mxGraphModel dx="4846" dy="-10415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4656" dy="-10629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1076,6 +1076,33 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1005" y="12855" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-100" value="整体系分" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="13770" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-102" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="13920" width="1100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-103" value="8.3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="13930" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-105" value="全链路联调" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="740" y="13770" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-106" value="8.22&lt;br&gt;T工程提供mock" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="725" y="13930" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-108" value="T工程提交域内测试" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="910" y="13770" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-109" value="8.24" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="935" y="13930" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-110" value="整体提测" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="13770" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="aiOidGFID3Y_s_JYiYBP-111" value="8.31" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1125" y="13930" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
