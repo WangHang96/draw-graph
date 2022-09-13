@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T06:31:28.209Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="k_OmgjCNZH61Iya5UbQu" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-13T06:33:25.566Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8qBlFrMXfjPFACVnwLgk" version="20.2.8" type="github">
   <diagram id="UIs4J6uljXiP5wbwVIjJ" name="第 1 页">
     <mxGraphModel dx="3002" dy="2356" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -436,20 +436,20 @@
         <mxCell id="1tzWMjOUEf_nEOJ2vcDy-154" value="查运单标签&lt;br&gt;10" style="whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="5160" y="150" width="30" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-157" value="商户基础数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4700" y="-200" width="110" height="30" as="geometry" />
+        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-157" value="商户基础数据就绪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4695" y="-200" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-158" value="订单基础数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4700" y="-310" width="110" height="30" as="geometry" />
+        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-158" value="订单基础数据就绪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4695" y="-310" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-160" value="导航/天气数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4685" y="115" width="120" height="30" as="geometry" />
+        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-160" value="导航/天气数据就绪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4690" y="115" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-162" value="预分流数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4695" y="205" width="100" height="30" as="geometry" />
+        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-162" value="预分流数据就绪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4690" y="205" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-167" value="出餐T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4700" y="480" width="60" height="30" as="geometry" />
+        <mxCell id="1tzWMjOUEf_nEOJ2vcDy-167" value="出餐T就绪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4695" y="480" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1tzWMjOUEf_nEOJ2vcDy-169" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="4700" y="-170" width="710" height="10" as="geometry" />
