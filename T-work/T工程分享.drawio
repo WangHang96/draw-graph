@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T12:00:58.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Rb9sS2ALMz6IdaoXMr5q" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T03:26:25.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="D6Ei82Q_qhmWmbUPUf5L" version="20.2.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
-    <mxGraphModel dx="-5551" dy="-171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-5341" dy="-60" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1196,6 +1196,39 @@
         </mxCell>
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-64" value="骑手T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="8975" y="4346.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-68" value="餐饮" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8456.5" y="7490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-69" value="零售" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8612" y="7490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-72" value="T工程" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8529" y="7910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-75" value="minos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8141.5" y="7720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-76" value="导航" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8141.5" y="7810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-77" value="预分流" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8141.5" y="7895.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-78" value="天气" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8141.5" y="7990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-79" value="压力平衡" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8141.5" y="8080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-80" value="统计数据" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8142.5" y="8280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-81" value="千里眼" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8142.5" y="8370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-83" value="楼层服务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8142.5" y="8183" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
