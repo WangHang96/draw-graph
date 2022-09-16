@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T08:15:21.021Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Nk0Ge7pq2UBlU5LH2S4V" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T08:22:01.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_gwN1bGsOt6hyOSi4miv" version="20.2.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
-    <mxGraphModel dx="-5723" dy="-262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-4290" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1344,10 +1344,10 @@
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-216" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QJLMPpVk9qKaKdKgW-9U-167" target="QJLMPpVk9qKaKdKgW-9U-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QJLMPpVk9qKaKdKgW-9U-167" value="mq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-167" value="rmq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="8638.13" y="9450" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QJLMPpVk9qKaKdKgW-9U-170" value="mq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-170" value="rmq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="8293.13" y="9720" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-171" value="&lt;br&gt;Redis" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
@@ -1360,7 +1360,7 @@
           <mxGeometry x="8978.13" y="8860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-176" value="发送计算任务消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="8187" y="9600" width="140" height="30" as="geometry" />
+          <mxGeometry x="8187" y="9610" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-177" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.665;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QJLMPpVk9qKaKdKgW-9U-170">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1414,6 +1414,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-304" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;shadow=0;" edge="1" parent="1" source="QJLMPpVk9qKaKdKgW-9U-214">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9678.38" y="9625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-214" value="query" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9249.63" y="9590" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1437,9 +1442,6 @@
             <mxPoint x="9310.13" y="9660" as="sourcePoint" />
             <mxPoint x="9308.13" y="9820" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="QJLMPpVk9qKaKdKgW-9U-292" value="metamq" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="9678.38" y="9595" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-293" value="保存询T结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="9320.13" y="9295" width="110" height="30" as="geometry" />
@@ -1470,6 +1472,18 @@
         </mxCell>
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-303" value="询列表T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="9640" y="8955" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-305" value="写place" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9500" y="9590" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-307" value="发送计算结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9196.5" y="9740" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-308" value="消费计算结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9340" y="9740" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-310" value="place" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9684" y="9590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
