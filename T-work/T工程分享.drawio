@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T10:09:59.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ccZio75SgLQhNHXfEHl6" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-16T10:13:37.443Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="0QMGgEklSJdXGEj9XjYu" version="20.2.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
     <mxGraphModel dx="-5551" dy="-171" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1499,6 +1499,30 @@
         </mxCell>
         <mxCell id="QJLMPpVk9qKaKdKgW-9U-321" value="自产自消msg&lt;br&gt;批量商户&lt;br&gt;shop + productId维度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="9250" y="9690" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-323" value="构建询T上下文" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8364" y="10430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-324" value="询出餐T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8365" y="10600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-325" value="询T0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8368" y="10760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-326" value="规则调整" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8365" y="10900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-327" value="末端校准" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8368" y="11040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-328" value="计算预定时间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8368" y="11190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-329" value="保存询T记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8368" y="11330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QJLMPpVk9qKaKdKgW-9U-330" value="发送Tcase" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8370.25" y="11450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
