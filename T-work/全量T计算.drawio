@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T12:07:25.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="O0wgcuU9H5XHTKqxQbd4" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T12:07:59.333Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gy2olNKnihEYaAMqScuT" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
     <mxGraphModel dx="3534" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -366,9 +366,6 @@
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lbsl9DkZRLSIf5Nhq8Jv-159" target="Lbsl9DkZRLSIf5Nhq8Jv-160">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lbsl9DkZRLSIf5Nhq8Jv-159" target="Lbsl9DkZRLSIf5Nhq8Jv-245">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-159" value="获取所有分片id" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="2030" width="170" height="60" as="geometry" />
         </mxCell>
@@ -586,12 +583,6 @@
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-240" value="有效运单集合" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="-820" y="4440" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-245" value="运单库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="-1000" y="1810" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-247" value="查询所有分片id" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1325" y="2010" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
