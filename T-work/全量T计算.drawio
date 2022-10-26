@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T10:12:08.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Z7M0150LAgh4YYJgtFBB" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T10:14:22.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-2flrGHapXvJQgYt6Tge" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
     <mxGraphModel dx="5306" dy="2747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -801,7 +801,7 @@
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-314" value="运单完结消息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-730" y="5600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-316" value="任务逻辑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-316" value="全量T计算&lt;br&gt;..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-380" y="5600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-318" value="4.并行执行任务逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -812,6 +812,18 @@
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-324" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1980" y="7380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-326" value="定时触发&lt;br&gt;列表T计算任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1890" y="5460" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-327" value="查询有效商户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1190" y="5460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-328" value="清除无效商户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-733" y="5460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-329" value="列表T计算&lt;br&gt;..." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="5460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
