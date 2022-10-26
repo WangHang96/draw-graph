@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T03:16:59.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="z8HaRh9rLBHuMxei74Vg" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T03:23:47.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="AncGGAO7BSsm6UCaAKZT" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
     <mxGraphModel dx="4361" dy="2172" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -607,11 +607,8 @@
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-255" value="一致性hash算法" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1360" y="4850" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-276" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lbsl9DkZRLSIf5Nhq8Jv-256" target="Lbsl9DkZRLSIf5Nhq8Jv-275">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-256" value="提交任务" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1180" y="5670" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1180" y="5810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-257" value="任务表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="-910" y="5950" width="60" height="80" as="geometry" />
@@ -680,15 +677,13 @@
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-268" value="广播消息" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1900" y="6820" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Lbsl9DkZRLSIf5Nhq8Jv-275" target="Lbsl9DkZRLSIf5Nhq8Jv-257">
+        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Lbsl9DkZRLSIf5Nhq8Jv-256" target="Lbsl9DkZRLSIf5Nhq8Jv-257">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1119.8571428571422" y="5905" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="-1120" y="5990" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-275" value="分片策略" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-1180" y="5845" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-280" value="节点表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-790" y="6590" width="60" height="80" as="geometry" />
