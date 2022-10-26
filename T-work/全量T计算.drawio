@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T10:04:44.874Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XelxB4jP49omY_ihZAT0" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T10:12:08.131Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Z7M0150LAgh4YYJgtFBB" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
     <mxGraphModel dx="5306" dy="2747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -629,13 +629,13 @@
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lbsl9DkZRLSIf5Nhq8Jv-262" target="Lbsl9DkZRLSIf5Nhq8Jv-264">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1940" y="5700" />
-              <mxPoint x="-1815" y="5700" />
+              <mxPoint x="-1815" y="5660" />
+              <mxPoint x="-1815" y="5660" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-262" value="定时触发业务一" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-2030" y="5600" width="170" height="60" as="geometry" />
+        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-262" value="定时触发&lt;br&gt;全量T计算任务" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1890" y="5590" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Lbsl9DkZRLSIf5Nhq8Jv-264" target="Lbsl9DkZRLSIf5Nhq8Jv-265">
           <mxGeometry relative="1" as="geometry" />
@@ -809,17 +809,6 @@
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-292" value="1.消费任务消息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1515" y="6910" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Lbsl9DkZRLSIf5Nhq8Jv-321" target="Lbsl9DkZRLSIf5Nhq8Jv-264">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-1665" y="5700" />
-              <mxPoint x="-1815" y="5700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-321" value="定时触发业务二" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1750" y="5600" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-324" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1980" y="7380" width="120" height="60" as="geometry" />
