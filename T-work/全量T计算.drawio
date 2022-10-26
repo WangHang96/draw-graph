@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T07:36:26.284Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="PJB6bVcVMKpc16rLajsM" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T08:58:00.819Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="NbLPydlSWLaN8E4Wzknt" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
-    <mxGraphModel dx="4126" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5071" dy="2616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -399,7 +399,7 @@
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-164" value="广播消息" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-1600" y="2520" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-165" value="任务表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-165" value="任务分配表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="2385" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Lbsl9DkZRLSIf5Nhq8Jv-168" value="mq" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
