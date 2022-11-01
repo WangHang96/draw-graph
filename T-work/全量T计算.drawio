@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T07:07:08.720Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="R8m7pcCfj7G_IM6S_Jng" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:07:22.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6DatITLDNOMNg4lCtJci" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
     <mxGraphModel dx="4797" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -918,7 +918,7 @@
           <mxGeometry x="2100" y="6565" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-40" value="根据bizTye和shard查bizId List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2815" y="6345" width="260" height="40" as="geometry" />
+          <mxGeometry x="2790" y="6345" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-42" value="bizType，seq，shard List" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1860" y="6565" width="230" height="40" as="geometry" />
