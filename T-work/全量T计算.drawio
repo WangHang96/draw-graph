@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T07:36:10.728Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="K-qLfkwghIffOmnLNjzE" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:37:01.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="t9TRb3BQb-SUeCRpoEfd" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
     <mxGraphModel dx="3523" dy="1652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1010,8 +1010,8 @@
         <mxCell id="793zcuKizU2P_WvX81R6-87" value="写入任务-组表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2570" y="5900" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-89" value="先查询任务-组表&lt;br&gt;然后根据删除组-任务表中的记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3120" y="5900" width="280" height="60" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-89" value="先查询任务-组表&lt;br&gt;然后两表双删" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3180" y="5900" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
