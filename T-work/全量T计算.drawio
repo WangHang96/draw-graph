@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T07:22:15.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="BlL6xkF6_JcCEWVipYO-" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:22:30.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ueH027fuZdj_umJg12nQ" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
     <mxGraphModel dx="4084" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -986,8 +986,8 @@
         <mxCell id="793zcuKizU2P_WvX81R6-65" value="扫所有分表得到group全集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1975" y="6150" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-66" value="任务归属于某个shard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="5850" width="190" height="40" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-66" value="任务归属于某个group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2455" y="5850" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-69" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2820" y="6585" width="80" height="40" as="geometry" />
@@ -995,8 +995,8 @@
         <mxCell id="793zcuKizU2P_WvX81R6-77" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;任务分组&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3050" y="5910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-80" value="查询任务需要带shard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3118" y="5845" width="190" height="40" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-80" value="查询任务需要带group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3113" y="5845" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
