@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T07:40:33.593Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lTkHfS_lek-ucLRtBOdF" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:40:57.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="_MhVl3DZGLT-yMiMeJhA" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
-    <mxGraphModel dx="5086" dy="2377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3315" dy="1555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -995,8 +995,8 @@
         <mxCell id="793zcuKizU2P_WvX81R6-62" value="任务分组" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2390" y="5910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-65" value="扫所有分表得到group全集/用redis提高效率" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1905" y="6150" width="370" height="40" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-65" value="扫所有分表得到group全集/分区存redis提高效率" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1890" y="6150" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-69" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2820" y="6585" width="80" height="40" as="geometry" />
