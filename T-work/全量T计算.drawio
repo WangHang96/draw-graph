@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T07:22:30.032Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ueH027fuZdj_umJg12nQ" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:33:25.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="o3Gwk0CJGAaB_ftCAJJY" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
-    <mxGraphModel dx="4084" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4218" dy="1974" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -852,21 +852,27 @@
         <mxCell id="793zcuKizU2P_WvX81R6-1" value="提交任务" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2390" y="5750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-2" value="任务表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="2762" y="6020" width="60" height="80" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-2" value="组-任务表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2760.5" y="6020" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-3" value="按照group做分表&lt;br&gt;bizType，group，bizId，info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="5950" width="250" height="60" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-3" value="按照group做分表&lt;br&gt;bizType，group，taskId，info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="6100" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="793zcuKizU2P_WvX81R6-77" target="793zcuKizU2P_WvX81R6-2">
+        <mxCell id="793zcuKizU2P_WvX81R6-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="793zcuKizU2P_WvX81R6-5" target="793zcuKizU2P_WvX81R6-81">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3110" y="5910" as="targetPoint" />
             <Array as="points">
               <mxPoint x="3110" y="6060" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="793zcuKizU2P_WvX81R6-5" target="793zcuKizU2P_WvX81R6-77">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="793zcuKizU2P_WvX81R6-5" target="793zcuKizU2P_WvX81R6-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3110" y="6190" />
+              <mxPoint x="2790" y="6190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-5" value="结束任务" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="3050" y="5750" width="120" height="60" as="geometry" />
@@ -980,23 +986,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="793zcuKizU2P_WvX81R6-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="793zcuKizU2P_WvX81R6-62" target="793zcuKizU2P_WvX81R6-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-62" value="任务分组" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="2390" y="5910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-65" value="扫所有分表得到group全集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1975" y="6150" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-66" value="任务归属于某个group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2455" y="5850" width="200" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-69" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2820" y="6585" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-77" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;任务分组&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="3050" y="5910" width="120" height="60" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-81" value="任务-组表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="2960" y="6020" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-80" value="查询任务需要带group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3113" y="5845" width="200" height="40" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-84" value="写入组-任务表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="6040" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="793zcuKizU2P_WvX81R6-85" value="按照taskId做分表&lt;br&gt;bizId，group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="6100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="793zcuKizU2P_WvX81R6-87" value="写入任务-组表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2570" y="5900" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="793zcuKizU2P_WvX81R6-89" value="先查询任务-组表&lt;br&gt;然后根据删除组-任务表中的记录" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3120" y="5900" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
