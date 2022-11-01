@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T06:38:35.676Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XuX88a7oQLCd_6NgT_t-" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T06:42:10.689Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="vaHuGPvtHMjFLpWNr3k-" version="20.4.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
-    <mxGraphModel dx="4376" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3870" dy="1813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -845,7 +845,7 @@
           <mxGeometry x="2660" y="6020" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-3" value="bizType，bizId，shardId，info" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2545" y="5950" width="270" height="40" as="geometry" />
+          <mxGeometry x="2690" y="6110" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="793zcuKizU2P_WvX81R6-5" target="793zcuKizU2P_WvX81R6-2">
           <mxGeometry relative="1" as="geometry">
@@ -938,8 +938,8 @@
         <mxCell id="793zcuKizU2P_WvX81R6-42" value="seq,bizType" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1870" y="6765" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-43" value="按照shardId做分表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2520" y="6130" width="170" height="40" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-43" value="按照shard做分表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2727" y="6150" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-44" value="" style="line;strokeWidth=4;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1290" y="5690" width="2760" height="10" as="geometry" />
@@ -1007,7 +1007,10 @@
           <mxGeometry x="2390" y="5910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-65" value="扫所有分表得到分片全集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="6150" width="220" height="40" as="geometry" />
+          <mxGeometry x="1980" y="6150" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="793zcuKizU2P_WvX81R6-66" value="任务归属于某个shard" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2515" y="5920" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
