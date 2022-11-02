@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T07:09:15.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="F_0jVjuStE5S515lata3" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-02T07:10:56.821Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="Dp5Wpfe14chrLPmTxHSV" version="20.4.0" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
     <mxGraphModel dx="4084" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5425,14 +5425,14 @@
         <mxCell id="uV9174HGTA07nYfFT5Q_-3" value="接单时间 &amp;lt;= 用户t-x" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8070" y="9850" width="240" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="uV9174HGTA07nYfFT5Q_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uV9174HGTA07nYfFT5Q_-7" target="uV9174HGTA07nYfFT5Q_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uV9174HGTA07nYfFT5Q_-7" value="开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="8875.5" y="9690" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uV9174HGTA07nYfFT5Q_-8" value="触发了兜底T？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8820" y="9810" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="uV9174HGTA07nYfFT5Q_-9" value="在六种过滤条件外？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="8826" y="10005" width="240" height="110" as="geometry" />
+        <mxCell id="uV9174HGTA07nYfFT5Q_-8" value="触发了兜底T&amp;amp;&amp;amp;在六种过滤条件外？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8747.13" y="9818.25" width="376.75" height="83.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
