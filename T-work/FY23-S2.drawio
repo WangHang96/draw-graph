@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T09:03:25.464Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="03cFj3RWTc9lwDmETCmy" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-30T09:09:55.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U-1FESzx1ZvJlI_u9fPa" version="20.5.1" type="github">
   <diagram id="E3jALuVVR5PxI1aeyk7M" name="第 1 页">
-    <mxGraphModel dx="3679" dy="1346" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2864" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,7 +72,7 @@
             <mxPoint x="-30" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2RcNM_Y5yWlaevunkYN-8" value="即时单入单询T，&lt;font color=&quot;#ff3333&quot;&gt;用户时间片、波次达正向/逆向标识&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="e2RcNM_Y5yWlaevunkYN-7" parent="1" source="e2RcNM_Y5yWlaevunkYN-1">
+        <mxCell id="e2RcNM_Y5yWlaevunkYN-8" value="即时单入单询T，&lt;font color=&quot;#ff3333&quot;&gt;用户时间片、波次达正向/逆向售中/售后标识&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="e2RcNM_Y5yWlaevunkYN-7" parent="1" source="e2RcNM_Y5yWlaevunkYN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="110" as="sourcePoint" />
           </mxGeometry>
