@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-30T13:47:27.371Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xyYQ06BQOsERTxutkyyR" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-01T02:56:16.818Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="WApDTwZCfAzlb45i6OTK" version="20.5.1" type="github">
   <diagram id="E3jALuVVR5PxI1aeyk7M" name="第 1 页">
-    <mxGraphModel dx="3021" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2728" dy="2376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,7 +75,7 @@
             <mxPoint x="-30" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e2RcNM_Y5yWlaevunkYN-8" value="即时单入单询T，&lt;font color=&quot;#ff3333&quot;&gt;用户时间片、波次达正向/逆向售中/售后标识&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="e2RcNM_Y5yWlaevunkYN-7" parent="1" source="e2RcNM_Y5yWlaevunkYN-1">
+        <mxCell id="e2RcNM_Y5yWlaevunkYN-8" value="即时单入单询T，&lt;font color=&quot;#ff3333&quot;&gt;用户时间片、出餐时间&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;rounded=0;" edge="1" target="e2RcNM_Y5yWlaevunkYN-7" parent="1" source="e2RcNM_Y5yWlaevunkYN-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="110" as="sourcePoint" />
           </mxGeometry>
@@ -114,6 +114,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="567" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e2RcNM_Y5yWlaevunkYN-34" value="" style="whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="-150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
