@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T12:15:39.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="C6Ignv99RAn7yhe8-CVU" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T12:17:45.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="J4mdkoGtMsSS7qHj7UE7" version="20.6.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
-    <mxGraphModel dx="4449" dy="2129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4912" dy="2355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1000,8 +1000,8 @@
         <mxCell id="793zcuKizU2P_WvX81R6-62" value="任务分组" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2390" y="5910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-65" value="扫所有分表得到group全集/分区存redis提高效率" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="6150" width="400" height="40" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-65" value="扫所有分表得到group全集" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1975" y="6150" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-69" value="。。。" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2820" y="6600" width="80" height="40" as="geometry" />
@@ -1009,14 +1009,14 @@
         <mxCell id="793zcuKizU2P_WvX81R6-81" value="task表" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="2940" y="6020" width="70" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-84" value="1.写入t_group_task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2519" y="6030" width="180" height="40" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-84" value="先写t_group_task" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2529" y="6030" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-85" value="按照taskId分表" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2920" y="6130" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-87" value="2.写入t_task_group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2519" y="5900" width="180" height="40" as="geometry" />
+        <mxCell id="793zcuKizU2P_WvX81R6-87" value="再写t_task_group" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2529" y="5900" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-89" value="先查t_task表&lt;br&gt;然后两表双删" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3130" y="5910" width="130" height="60" as="geometry" />
