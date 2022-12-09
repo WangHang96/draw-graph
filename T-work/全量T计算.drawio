@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-08T06:51:24.568Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TKtE1OQ70-pQVvmXMeiy" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T07:23:01.918Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="ujqcmpK-TaB5M6_NwOv-" version="20.6.0" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
     <mxGraphModel dx="5336" dy="2513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -919,7 +919,7 @@
         <mxCell id="793zcuKizU2P_WvX81R6-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="793zcuKizU2P_WvX81R6-11" target="793zcuKizU2P_WvX81R6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="793zcuKizU2P_WvX81R6-11" value="获取业务下所有group" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="793zcuKizU2P_WvX81R6-11" value="获取该任务类型下所有group" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1670" y="6160" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="793zcuKizU2P_WvX81R6-16" value="分配任务" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1082,8 +1082,8 @@
         <mxCell id="cuToZpZ9rWqDgf3NoFs_-84" value="提交到线程池" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3330" y="6575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cuToZpZ9rWqDgf3NoFs_-87" value="根据taskType获取对应业务线程池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2945" y="6620" width="290" height="40" as="geometry" />
+        <mxCell id="cuToZpZ9rWqDgf3NoFs_-87" value="根据bizType获取对应业务线程池" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2950" y="6620" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cuToZpZ9rWqDgf3NoFs_-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cuToZpZ9rWqDgf3NoFs_-90" target="cuToZpZ9rWqDgf3NoFs_-84">
           <mxGeometry relative="1" as="geometry" />
