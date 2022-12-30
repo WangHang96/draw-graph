@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-30T11:15:18.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="rMAqwFbVW0JVPF6Z3RTS" version="20.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-30T11:18:33.707Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="9aI7tH30Jry7oScXo8LH" version="20.7.2" type="github">
   <diagram id="sV-Qj5nfXAAdDPfbrngv" name="第 1 页">
-    <mxGraphModel dx="3485" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3753" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1403,6 +1403,15 @@
         </mxCell>
         <mxCell id="pyN-M0D2HFnyxFMMd35K-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TaskRepository&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;void insert&lt;span style=&quot;background-color: initial;&quot;&gt;(Task task)&amp;nbsp;&lt;/span&gt;&lt;br&gt;&amp;nbsp;void update&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;Task task&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;br&gt;&lt;/span&gt;&amp;nbsp;void delete(String taskType, String taskId)&lt;br&gt;&amp;nbsp;Task&amp;nbsp;query&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;(String taskType, String taskId&lt;/span&gt;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;)&lt;br&gt;&amp;nbsp;List&amp;lt;&amp;nbsp;Task&amp;gt; query(String taskType, String groupId)&lt;br&gt;&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="4405" y="7540" width="470" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pyN-M0D2HFnyxFMMd35K-12" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TaskConfig&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;void&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;submit(Task task):&amp;nbsp;&lt;/span&gt;&lt;br&gt;&amp;nbsp;void&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;terminate(String taskType, String taskId)&lt;/span&gt;&lt;br&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3860" y="7270" width="470" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="pyN-M0D2HFnyxFMMd35K-13" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ITaskHandler&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;void&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;execute(Task task):&amp;nbsp;&lt;/span&gt;&lt;br&gt;&amp;nbsp;void&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;execute(List&amp;lt;Task&amp;gt; taskList)&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4405" y="7270" width="465" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="pyN-M0D2HFnyxFMMd35K-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ITaskHandler&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&amp;nbsp;void&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;execute(Task task):&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;void&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color); background-color: initial;&quot;&gt;execute(List&amp;lt;Task&amp;gt; taskList)&lt;/span&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4405" y="7000" width="470" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
