@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T03:25:30.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GOHr0SHiRbIex5a3mLV8" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T03:26:39.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Vw_r92wcWqQQjNgaTQtd" version="20.8.1" type="github">
   <diagram id="NJYsv6nAN40AnTQsV-DW" name="Page-1">
-    <mxGraphModel dx="3667" dy="22" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3903" dy="162" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2117,7 +2117,7 @@
           <mxGeometry x="-1135" y="9550" width="200" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Ra6JO7Bl01ZAu5r_lXQk-22" value="初始骑手T" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="Ra6JO7Bl01ZAu5r_lXQk-19">
-          <mxGeometry x="22.69" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ra6JO7Bl01ZAu5r_lXQk-20" value="分流询T" style="swimlane;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-935" y="9550" width="455" height="420" as="geometry" />
@@ -2146,21 +2146,24 @@
         <mxCell id="Ra6JO7Bl01ZAu5r_lXQk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="Ra6JO7Bl01ZAu5r_lXQk-22" target="Ra6JO7Bl01ZAu5r_lXQk-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-950" y="9750" />
-              <mxPoint x="-950" y="9690" />
+              <mxPoint x="-910" y="9750" />
+              <mxPoint x="-910" y="9690" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ra6JO7Bl01ZAu5r_lXQk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="Ra6JO7Bl01ZAu5r_lXQk-22" target="Ra6JO7Bl01ZAu5r_lXQk-24">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-950" y="9750" />
-              <mxPoint x="-950" y="9800" />
+              <mxPoint x="-910" y="9750" />
+              <mxPoint x="-910" y="9800" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ra6JO7Bl01ZAu5r_lXQk-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="Ra6JO7Bl01ZAu5r_lXQk-25" target="Ra6JO7Bl01ZAu5r_lXQk-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ra6JO7Bl01ZAu5r_lXQk-32" value="各询T阶段骑手T的关系" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="-1140.44" y="9480" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
