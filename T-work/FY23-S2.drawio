@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T12:15:37.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DzuNsZKuAL3VBy2dgvth" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T12:21:56.077Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_9NDkrIkFwDmxWl0h0F6" version="20.8.14" type="github">
   <diagram id="E3jALuVVR5PxI1aeyk7M" name="第 1 页">
     <mxGraphModel dx="3267" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -443,8 +443,17 @@
         <mxCell id="zamYdvRCqPIExTTeQIOF-6" value="并行呼单现状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3360" y="30" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zamYdvRCqPIExTTeQIOF-7" value="预定单设置运单创建时间&lt;br&gt;依赖运单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zamYdvRCqPIExTTeQIOF-7" value="设置预定标识和运单创建时间&lt;br&gt;依赖运单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3290" y="585" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-8" value="询T计算&lt;br&gt;依赖运单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="740" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-9" value="即时单，处理兜底T&lt;br&gt;依赖上下文" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="910" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-10" value="即时单，运力不变时&lt;br&gt;前一次骑手T判断&lt;br&gt;十分钟判断&lt;br&gt;依赖上下文和运单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="1079" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
