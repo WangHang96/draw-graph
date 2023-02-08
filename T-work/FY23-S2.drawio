@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T03:07:40.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nMm-XIe6b9KGaWdT_9TU" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T12:15:37.781Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DzuNsZKuAL3VBy2dgvth" version="20.8.14" type="github">
   <diagram id="E3jALuVVR5PxI1aeyk7M" name="第 1 页">
-    <mxGraphModel dx="4284" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3267" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -424,6 +424,27 @@
         </mxCell>
         <mxCell id="9se46bVj3GfnI24Nl3E_-16" value="&lt;font color=&quot;#ff3333&quot;&gt;识别大蛋糕场景才走众包&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="680" y="1410" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-1" value="大蛋糕需求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="-110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-2" value="并行呼单重构" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3610" y="-130" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-3" value="处理波次达&lt;br&gt;依赖运单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="100" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-4" value="创建上下文&lt;br&gt;依赖运单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="430" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-5" value="处理逆向单&lt;br&gt;依赖运单和询T记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="270" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-6" value="并行呼单现状" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3360" y="30" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-7" value="预定单设置运单创建时间&lt;br&gt;依赖运单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="585" width="270" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
