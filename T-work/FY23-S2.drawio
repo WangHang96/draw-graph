@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-08T12:28:53.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="d1YiydYIS5TIkSyxm2Oz" version="20.8.14" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-08T12:33:34.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_9NAGZPFlj48_DFFuGYO" version="20.8.14" type="github">
   <diagram id="E3jALuVVR5PxI1aeyk7M" name="第 1 页">
     <mxGraphModel dx="3267" dy="2357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -463,6 +463,27 @@
         </mxCell>
         <mxCell id="zamYdvRCqPIExTTeQIOF-13" value="众包或者混调&lt;br&gt;取DB的值，没有则取上下文计算的结果&lt;br&gt;依赖运单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3290" y="1550" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-14" value="非（众包或者混调）&lt;br&gt;即要算T&lt;br&gt;依赖运单和上下文" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="1720" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-15" value="专人直送&amp;amp;&amp;amp;众包&lt;br&gt;&lt;br&gt;依赖运单和上下文" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3722" y="1664" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-16" value="非(专人直送&amp;amp;&amp;amp;众包)&lt;br&gt;&lt;br&gt;依赖运单和上下文" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3722" y="1770" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="zamYdvRCqPIExTTeQIOF-14" target="zamYdvRCqPIExTTeQIOF-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3610" y="1760" as="sourcePoint" />
+            <mxPoint x="3660" y="1710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zamYdvRCqPIExTTeQIOF-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zamYdvRCqPIExTTeQIOF-14" target="zamYdvRCqPIExTTeQIOF-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3610" y="1770" as="sourcePoint" />
+            <mxPoint x="3670" y="1800" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
