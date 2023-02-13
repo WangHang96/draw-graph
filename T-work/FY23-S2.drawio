@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T09:33:41.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="OE4UPpp6ssXIJZKRVrb6" version="20.8.18" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T12:19:23.271Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="KwjwfoVYcLbG-xJcT6bd" version="20.8.18" type="github">
   <diagram id="E3jALuVVR5PxI1aeyk7M" name="第 1 页">
-    <mxGraphModel dx="2901" dy="2436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4018" dy="2909" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -764,41 +764,41 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-4" value="AbstractDispathPredictorPostProcessor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="5400" y="2888" width="220" height="40" as="geometry">
+          <mxGeometry x="6910" y="2130" width="220" height="40" as="geometry">
             <mxRectangle x="5190" y="1660" width="260" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-5" value="IDispathPredictorPostProcessor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="5400" y="2798" width="220" height="40" as="geometry">
+          <mxGeometry x="6910" y="2040" width="220" height="40" as="geometry">
             <mxRectangle x="5190" y="1660" width="260" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-6" value="CheckWithCustomerTPostProcessor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="5210" y="3008" width="270" height="40" as="geometry">
+          <mxGeometry x="6720" y="2250" width="270" height="40" as="geometry">
             <mxRectangle x="5190" y="1660" width="260" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-8" value="CheckWithOriginalCarrierTPostProcessor" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="5550" y="3008" width="260" height="40" as="geometry">
+          <mxGeometry x="7060" y="2250" width="260" height="40" as="geometry">
             <mxRectangle x="5190" y="1660" width="260" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-10" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.454;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o2_JBnGHYqlQZsIB3G5X-6" target="o2_JBnGHYqlQZsIB3G5X-4">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="5350" y="2958" as="sourcePoint" />
-            <mxPoint x="5510" y="2958" as="targetPoint" />
+            <mxPoint x="6860" y="2200" as="sourcePoint" />
+            <mxPoint x="7020" y="2200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-11" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.462;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o2_JBnGHYqlQZsIB3G5X-8">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="5680" y="2968" as="sourcePoint" />
-            <mxPoint x="5540" y="2928" as="targetPoint" />
+            <mxPoint x="7190" y="2210" as="sourcePoint" />
+            <mxPoint x="7050" y="2170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-12" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.473;exitY=-0.032;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="o2_JBnGHYqlQZsIB3G5X-4">
           <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="5520" y="2858" as="sourcePoint" />
-            <mxPoint x="5504" y="2838" as="targetPoint" />
+            <mxPoint x="7030" y="2100" as="sourcePoint" />
+            <mxPoint x="7014" y="2080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-16" value="zrzs&amp;amp;zb" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -815,6 +815,14 @@
         </mxCell>
         <mxCell id="o2_JBnGHYqlQZsIB3G5X-24" value="新询T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5320" y="819" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o2_JBnGHYqlQZsIB3G5X-29" value="IDispathPredictService" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="6080" y="1600" width="420" height="110" as="geometry">
+            <mxRectangle x="5190" y="1660" width="260" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o2_JBnGHYqlQZsIB3G5X-30" value="&#xa;AcceptRecord predict(PredictContext, ShippingOrder)&#xa;&#xa;AcceptRecord predictForBookedOrder(PredictContext, ShippingOrder)&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="o2_JBnGHYqlQZsIB3G5X-29">
+          <mxGeometry y="26" width="420" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
