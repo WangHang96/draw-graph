@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T11:59:43.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EbZDODFGk6u-20WwaCsk" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-05T12:08:03.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_JTjU3UfQ-ULyBmQvsu_" version="21.0.2" type="github" pages="2">
   <diagram id="6AvrPNXlWnlGHvyuXoXP" name="Page-1">
     <mxGraphModel dx="2417" dy="3298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,7 +377,7 @@
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-2" target="VtbBAKaQ7lNRIEUdP_Ec-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-2" value="人口流入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-2" value="人口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-3" target="VtbBAKaQ7lNRIEUdP_Ec-4">
@@ -429,6 +429,45 @@
         </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-31" value="资本市场" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-33" target="VtbBAKaQ7lNRIEUdP_Ec-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-33" value="短期看货币" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-463" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-34" target="VtbBAKaQ7lNRIEUdP_Ec-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-34" value="中期看土地" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-35" value="长期看人口" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-38" value="从不同时期来看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-670" y="1724" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-39" target="VtbBAKaQ7lNRIEUdP_Ec-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-39" value="城市" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-463" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-40" target="VtbBAKaQ7lNRIEUdP_Ec-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-40" value="板块" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-41" target="VtbBAKaQ7lNRIEUdP_Ec-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-41" value="小区" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-42" value="具体户型" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="1850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
