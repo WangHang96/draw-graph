@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-13T15:50:38.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="jSVOHkBxLEIxoQaImWIT" version="14.9.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-05T11:45:43.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="4pk4Kcx1HAAUTOVXngIO" version="21.0.2" type="github" pages="2">
   <diagram id="6AvrPNXlWnlGHvyuXoXP" name="Page-1">
-    <mxGraphModel dx="5327" dy="5243" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="3161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -360,6 +360,72 @@
         </mxCell>
         <mxCell id="2V-p6wdvTMffzSgKyam1-62" value="否" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;comic=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="-560" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-1" target="VtbBAKaQ7lNRIEUdP_Ec-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-1" value="城市发展良好" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292.5" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-2" target="VtbBAKaQ7lNRIEUdP_Ec-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-2" value="人口流入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-3" target="VtbBAKaQ7lNRIEUdP_Ec-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-3" value="住房需求增加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-4" value="房价上涨" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="1300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-6" target="VtbBAKaQ7lNRIEUdP_Ec-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-6" value="投资需求增加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="141" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-12" value="加速" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1410" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-13" target="VtbBAKaQ7lNRIEUdP_Ec-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-13" value="自身优势" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-14" target="VtbBAKaQ7lNRIEUdP_Ec-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-14" value="国家定位" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="1350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-18" target="VtbBAKaQ7lNRIEUdP_Ec-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-18" value="预期城市发展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292.5" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-19" target="VtbBAKaQ7lNRIEUdP_Ec-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-19" value="预期人口流入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-24" target="VtbBAKaQ7lNRIEUdP_Ec-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-24" value="老龄化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292.5" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-25" target="VtbBAKaQ7lNRIEUdP_Ec-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-25" value="城市分化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292.5" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
