@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T11:54:52.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2WNbRj3o3YjjyOqT4IOv" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-05T11:57:27.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jARmYwtLpdUbcAOFo2t9" version="21.0.2" type="github" pages="2">
   <diagram id="6AvrPNXlWnlGHvyuXoXP" name="Page-1">
-    <mxGraphModel dx="2190" dy="3161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2417" dy="3298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -364,6 +364,13 @@
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-1" target="VtbBAKaQ7lNRIEUdP_Ec-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-1" target="VtbBAKaQ7lNRIEUdP_Ec-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-232" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-1" value="城市发展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-292.5" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
@@ -385,8 +392,8 @@
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-6" target="VtbBAKaQ7lNRIEUdP_Ec-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-6" value="投资需求增加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="141" y="1420" width="120" height="60" as="geometry" />
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-6" value="房产投资需求增加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-12" value="加速" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="1410" width="50" height="30" as="geometry" />
@@ -403,18 +410,6 @@
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-14" value="国家定位" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-520" y="1350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-18" target="VtbBAKaQ7lNRIEUdP_Ec-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-18" value="预期城市发展" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-292.5" y="1420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-19" target="VtbBAKaQ7lNRIEUdP_Ec-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-19" value="预期人口流入" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1420" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-24" target="VtbBAKaQ7lNRIEUdP_Ec-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -426,6 +421,14 @@
         </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-25" value="城市分化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-292.5" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-31" target="VtbBAKaQ7lNRIEUdP_Ec-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-20" y="1550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-31" value="资本市场不健全" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
