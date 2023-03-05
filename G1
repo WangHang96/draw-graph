@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-05T11:57:27.568Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jARmYwtLpdUbcAOFo2t9" version="21.0.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-03-05T11:59:43.447Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EbZDODFGk6u-20WwaCsk" version="21.0.2" type="github" pages="2">
   <diagram id="6AvrPNXlWnlGHvyuXoXP" name="Page-1">
     <mxGraphModel dx="2417" dy="3298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -383,20 +383,20 @@
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-3" target="VtbBAKaQ7lNRIEUdP_Ec-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-3" value="住房需求增加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-3" value="住房需求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="141" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-4" value="房价上涨" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-4" value="房价" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="1300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-6" target="VtbBAKaQ7lNRIEUdP_Ec-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-6" value="房产投资需求增加" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-6" value="房产投资需求" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="1420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-12" value="加速" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1410" width="50" height="30" as="geometry" />
+          <mxGeometry x="335" y="1410" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-13" target="VtbBAKaQ7lNRIEUdP_Ec-1">
           <mxGeometry relative="1" as="geometry" />
@@ -419,7 +419,7 @@
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-25" target="VtbBAKaQ7lNRIEUdP_Ec-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-25" value="城市分化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-25" value="加速城市间分化" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-292.5" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VtbBAKaQ7lNRIEUdP_Ec-31" target="VtbBAKaQ7lNRIEUdP_Ec-6">
@@ -427,8 +427,8 @@
             <mxPoint x="-20" y="1550" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-31" value="资本市场不健全" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="1560" width="120" height="60" as="geometry" />
+        <mxCell id="VtbBAKaQ7lNRIEUdP_Ec-31" value="资本市场" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="1540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
