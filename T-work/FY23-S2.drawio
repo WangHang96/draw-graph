@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T16:04:14.929Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="vVVHB4Txsw-uOrNbSmBL" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T16:08:18.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="lBWpDJjumadXD40GMmxh" version="20.8.20" type="github">
   <diagram id="E3jALuVVR5PxI1aeyk7M" name="第 1 页">
-    <mxGraphModel dx="1781" dy="1649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2099" dy="1809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -847,6 +847,60 @@
         </mxCell>
         <mxCell id="mod75sQdEKSddQIQXtZe-10" value="零售自配" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="4440" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-11" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="4560" width="130" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-13" value="餐饮自配第一批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="4570" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-14" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="4560" width="130" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-15" value="餐饮自配第二批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="4570" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-16" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="4560" width="150" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-17" value="餐饮非自配第n批" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="4570" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-21" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="4670" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-22" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="4670" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-23" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="4670" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-24" value="商户1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="4620" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-25" value="商户N" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="4770" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-26" value="商户2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="4700" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-27" value="商户1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="4620" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-28" value="商户N" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="4770" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-29" value="商户2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-365" y="4700" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-30" value="商户1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="4620" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-31" value="商户N" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="4770" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mod75sQdEKSddQIQXtZe-32" value="商户2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="4700" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
