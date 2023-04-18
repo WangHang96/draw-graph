@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T03:09:38.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Xk1aPCkbafExjW4GgcPV" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T06:22:27.658Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="-qveed8_BtoxPedHYzZR" version="21.0.6" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
-    <mxGraphModel dx="1059" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2271" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,52 +37,51 @@
         <mxCell id="tKo5sGtpNb4lER5eMA1o-38" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="150" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tKo5sGtpNb4lER5eMA1o-42" value="接单process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="645" width="120" height="60" as="geometry" />
+        <mxCell id="tKo5sGtpNb4lER5eMA1o-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.626;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tKo5sGtpNb4lER5eMA1o-43" target="tKo5sGtpNb4lER5eMA1o-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="472" y="780" />
+              <mxPoint x="472" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="tKo5sGtpNb4lER5eMA1o-43" value="job process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="535" y="645" width="120" height="60" as="geometry" />
+        <mxCell id="tKo5sGtpNb4lER5eMA1o-43" value="JobProcess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375.5" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tKo5sGtpNb4lER5eMA1o-47" value="add trackingId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="540" width="140" height="40" as="geometry" />
+          <mxGeometry x="80" y="580" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tKo5sGtpNb4lER5eMA1o-49" value="query all trackingId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="414" y="560" width="170" height="40" as="geometry" />
+          <mxGeometry x="265" y="740" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tKo5sGtpNb4lER5eMA1o-52" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tKo5sGtpNb4lER5eMA1o-42" target="tKo5sGtpNb4lER5eMA1o-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="275" y="640" as="sourcePoint" />
-            <mxPoint x="275" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="255" y="620" />
-              <mxPoint x="240" y="570" />
-              <mxPoint x="255" y="520" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="tKo5sGtpNb4lER5eMA1o-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tKo5sGtpNb4lER5eMA1o-53" target="tKo5sGtpNb4lER5eMA1o-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tKo5sGtpNb4lER5eMA1o-53" value="活跃运单id集合" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="440" width="286" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="tKo5sGtpNb4lER5eMA1o-55" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.976;exitY=0.705;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tKo5sGtpNb4lER5eMA1o-53" target="tKo5sGtpNb4lER5eMA1o-43">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="585" y="510" as="sourcePoint" />
-            <mxPoint x="655" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="635" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tKo5sGtpNb4lER5eMA1o-56" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tKo5sGtpNb4lER5eMA1o-53">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="745" y="530" as="sourcePoint" />
-            <mxPoint x="830" y="540" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="570" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="292.5" y="580" width="286" height="90" as="geometry" />
         </mxCell>
         <mxCell id="tKo5sGtpNb4lER5eMA1o-57" value="remove trackingId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="490" width="170" height="40" as="geometry" />
+          <mxGeometry x="620" y="580" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tKo5sGtpNb4lER5eMA1o-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tKo5sGtpNb4lER5eMA1o-61" target="tKo5sGtpNb4lER5eMA1o-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tKo5sGtpNb4lER5eMA1o-61" value="运单完结" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tKo5sGtpNb4lER5eMA1o-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tKo5sGtpNb4lER5eMA1o-63" target="tKo5sGtpNb4lER5eMA1o-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="10" y="595" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="10" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tKo5sGtpNb4lER5eMA1o-63" value="确认运力询T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tKo5sGtpNb4lER5eMA1o-69" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="760" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
