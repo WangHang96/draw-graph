@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T06:51:54.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IPTt3b5WhSPfQGH5cIjZ" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T07:00:51.756Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ijhRW-qFNNECumOwT1u_" version="21.1.8" type="github">
   <diagram id="UIs4J6uljXiP5wbwVIjJ" name="第 1 页">
-    <mxGraphModel dx="2150" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2415" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -400,7 +400,7 @@
         <mxCell id="1tzWMjOUEf_nEOJ2vcDy-177" value="各类T值就绪 70" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="3800" y="935" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d3o_CDH_am5i4d6uqj7n-4" value="构建询T上下文&lt;br&gt;18/170" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="d3o_CDH_am5i4d6uqj7n-4" value="构建询T上下文&lt;br&gt;18/180" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4420" y="2062" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d3o_CDH_am5i4d6uqj7n-8" value="查ETA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -409,7 +409,7 @@
         <mxCell id="d3o_CDH_am5i4d6uqj7n-9" value="查ETS" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3939.5" y="1872" width="122.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="d3o_CDH_am5i4d6uqj7n-11" value="查分流信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d3o_CDH_am5i4d6uqj7n-11" value="查分流信息&amp;nbsp; 70/180" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3870" y="1980" width="160" height="42" as="geometry" />
         </mxCell>
         <mxCell id="d3o_CDH_am5i4d6uqj7n-6" value="查商户详情" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -430,7 +430,7 @@
         <mxCell id="d3o_CDH_am5i4d6uqj7n-27" value="订单信息构建&lt;br&gt;4/20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4082" y="1882" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="d3o_CDH_am5i4d6uqj7n-28" value="分流信息构建&lt;br&gt;10/135" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="d3o_CDH_am5i4d6uqj7n-28" value="分流信息构建&lt;br&gt;8/135" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4080" y="1962" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d3o_CDH_am5i4d6uqj7n-29" value="其他特征&lt;br&gt;3/20" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -483,6 +483,9 @@
         </mxCell>
         <mxCell id="d3o_CDH_am5i4d6uqj7n-54" value="查接力点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4270" y="1754" width="30" height="248" as="geometry" />
+        </mxCell>
+        <mxCell id="d3o_CDH_am5i4d6uqj7n-56" value="询T耗时总计&lt;br&gt;95/320" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4450" y="2410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
