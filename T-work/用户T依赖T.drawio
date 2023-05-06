@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T06:25:10.351Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="TWTSW9Uv28PPh2ZgvsoX" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T06:27:05.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="DIMFW17uwnNahtwcH865" version="21.1.8" type="github">
   <diagram id="UIs4J6uljXiP5wbwVIjJ" name="第 1 页">
     <mxGraphModel dx="2150" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d3o_CDH_am5i4d6uqj7n-47" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3740" y="2320" width="780" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="d3o_CDH_am5i4d6uqj7n-24" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3740" y="1664" width="780" height="466" as="geometry" />
         </mxCell>
@@ -471,6 +474,9 @@
         </mxCell>
         <mxCell id="d3o_CDH_am5i4d6uqj7n-46" value="regulate&lt;br&gt;28/76" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4385" y="2240" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d3o_CDH_am5i4d6uqj7n-48" value="预定单配送T&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;12/50" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3852" y="2345" width="318" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
