@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T07:01:44.016Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UiEq9EnS-sQ4FwOki9E1" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T07:05:16.510Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="jn-ghMmxh6W0OYhrzx8P" version="21.1.8" type="github">
   <diagram id="UIs4J6uljXiP5wbwVIjJ" name="第 1 页">
     <mxGraphModel dx="2415" dy="1921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -484,8 +484,8 @@
         <mxCell id="d3o_CDH_am5i4d6uqj7n-54" value="查接力点" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4270" y="1754" width="30" height="248" as="geometry" />
         </mxCell>
-        <mxCell id="d3o_CDH_am5i4d6uqj7n-56" value="询T耗时总计&lt;br&gt;95/320" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4450" y="2410" width="120" height="60" as="geometry" />
+        <mxCell id="d3o_CDH_am5i4d6uqj7n-56" value="询T耗时总计（含缓存）&lt;br&gt;95/320" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4360" y="2410" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
