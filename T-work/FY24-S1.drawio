@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T12:36:00.982Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="xNKenSZwFzX5a_3s1ayl" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-15T12:41:08.785Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="oBxeU9PLJT_7waR0Ne_n" version="21.6.6" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
     <mxGraphModel dx="2442" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,8 +250,8 @@
             <mxPoint x="2010" y="1480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8MHDK6jBeyo3wVaC5EEa-9" value="预测T时长&lt;br&gt;预测T时间点&lt;br&gt;预测T时间片开始&lt;br&gt;预测T时间片结束" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="1410" width="160" height="100" as="geometry" />
+        <mxCell id="8MHDK6jBeyo3wVaC5EEa-9" value="预测T时长&lt;br&gt;预测T时间点&lt;br&gt;预测T时间片开始&lt;br&gt;预测T时间片结束&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;灰度标识？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="1390" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8MHDK6jBeyo3wVaC5EEa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8MHDK6jBeyo3wVaC5EEa-10" target="8MHDK6jBeyo3wVaC5EEa-3">
           <mxGeometry relative="1" as="geometry" />
@@ -270,6 +270,9 @@
         </mxCell>
         <mxCell id="8MHDK6jBeyo3wVaC5EEa-12" value="消费方N" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2510" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8MHDK6jBeyo3wVaC5EEa-18" value="&lt;font color=&quot;#ff3333&quot;&gt;自由灰度？&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2380" y="1480" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
