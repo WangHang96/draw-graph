@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:37:16.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-ZtW2NmAySagLbjUD-Z6" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:39:31.086Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ZmXzBSgrYRJXuprsnZs0" version="22.0.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
     <mxGraphModel dx="-5947" dy="-438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2067,13 +2067,13 @@
           <mxGeometry x="13815" y="3930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-13" value="平台餐饮T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14010" y="3930" width="120" height="60" as="geometry" />
+          <mxGeometry x="14180" y="3930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-14" value="高德T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14370" y="3930" width="120" height="60" as="geometry" />
+          <mxGeometry x="14000" y="3930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-15" value="平台零售T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14190" y="3930" width="120" height="60" as="geometry" />
+          <mxGeometry x="14360" y="3930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-16" value="预测T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="13810" y="3830" width="110" height="40" as="geometry" />
@@ -2084,17 +2084,14 @@
         <mxCell id="LiYiQKgWh5elofrZuzCI-25" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="13790" y="4054.5" width="730" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-26" value="定制预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13815" y="4104.5" width="120" height="60" as="geometry" />
+        <mxCell id="LiYiQKgWh5elofrZuzCI-26" value="过上限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="13876" y="4104.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-27" value="平台餐饮T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14000" y="4104.5" width="120" height="60" as="geometry" />
+        <mxCell id="LiYiQKgWh5elofrZuzCI-27" value="过下限" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14061" y="4104.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-28" value="高德T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14370" y="4104.5" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-29" value="平台零售T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14190" y="4104.5" width="120" height="60" as="geometry" />
+        <mxCell id="LiYiQKgWh5elofrZuzCI-29" value="过规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="14251" y="4104.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-30" value="时效调整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="13810" y="4054.5" width="100" height="40" as="geometry" />
@@ -2105,7 +2102,7 @@
         <mxCell id="LiYiQKgWh5elofrZuzCI-32" value="动态调整" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13791.5" y="4333.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-33" value="兜底T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LiYiQKgWh5elofrZuzCI-33" value="过兜底T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14086.5" y="4330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-34" value="出餐延迟补T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
