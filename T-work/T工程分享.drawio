@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:41:28.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="V519aB3uQ5ktHkVm04E_" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:41:40.564Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Qjw3kX3se5Dd40t2XD-6" version="22.0.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
     <mxGraphModel dx="-5947" dy="-438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2063,7 +2063,7 @@
         <mxCell id="LiYiQKgWh5elofrZuzCI-10" value="出餐T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="13800" y="3650" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-12" value="定制预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LiYiQKgWh5elofrZuzCI-12" value="定制T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13815" y="3930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-13" value="平台餐饮T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
