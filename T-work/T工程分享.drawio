@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:56:58.535Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="063yjos0FAF6bkEH8vOA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T14:00:56.578Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hqnzfUg-1s6ZUBypSF0B" version="22.0.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
-    <mxGraphModel dx="-5947" dy="-438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-5797" dy="-365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LiYiQKgWh5elofrZuzCI-41" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14790" y="3800" width="360" height="190" as="geometry" />
-        </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-11" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="13750" y="3819" width="810" height="451" as="geometry" />
         </mxCell>
@@ -2117,14 +2114,8 @@
         <mxCell id="LiYiQKgWh5elofrZuzCI-37" value="T能力抽象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="13741" y="3567" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-38" value="天气" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14830" y="3870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-40" value="距离" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14990" y="3870" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-42" value="定制T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="14935" y="3810" width="70" height="40" as="geometry" />
+        <mxCell id="LiYiQKgWh5elofrZuzCI-48" value="定制T、上限、下限、规则、兜底T配置维度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="13950" y="3567" width="390" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
