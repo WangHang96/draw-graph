@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T13:00:20.919Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="bRlsfLQk_AgDhuYY4Xw7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T13:37:16.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="-ZtW2NmAySagLbjUD-Z6" version="22.0.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
-    <mxGraphModel dx="-4813" dy="107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-5947" dy="-438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LiYiQKgWh5elofrZuzCI-11" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="LiYiQKgWh5elofrZuzCI-11" value="" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="13750" y="3819" width="810" height="451" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-23" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LiYiQKgWh5elofrZuzCI-23" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="13790" y="3880" width="730" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-9" value="" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="13750" y="3630" width="810" height="170" as="geometry" />
+        <mxCell id="LiYiQKgWh5elofrZuzCI-9" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="13750" y="3640" width="810" height="170" as="geometry" />
         </mxCell>
         <mxCell id="3IyZoXsDDpKXvx2LlwHH-68" value="" style="whiteSpace=wrap;html=1;comic=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="12650" y="1640" width="1370" height="1440" as="geometry" />
@@ -2049,19 +2049,19 @@
           <mxGeometry x="13010" y="2630" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-1" value="定制出餐T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13800" y="3690" width="120" height="60" as="geometry" />
+          <mxGeometry x="13800" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-2" value="无出餐T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14000" y="3690" width="120" height="60" as="geometry" />
+          <mxGeometry x="14000" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-3" value="零售仓T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14190" y="3690" width="120" height="60" as="geometry" />
+          <mxGeometry x="14190" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-4" value="餐饮出餐T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14385" y="3690" width="120" height="60" as="geometry" />
+          <mxGeometry x="14385" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-10" value="出餐T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="13800" y="3640" width="110" height="40" as="geometry" />
+          <mxGeometry x="13800" y="3650" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-12" value="定制预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13815" y="3930" width="120" height="60" as="geometry" />
@@ -2081,7 +2081,7 @@
         <mxCell id="LiYiQKgWh5elofrZuzCI-24" value="时效标准" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="13810" y="3880" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-25" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LiYiQKgWh5elofrZuzCI-25" value="" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="13790" y="4054.5" width="730" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-26" value="定制预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -2099,20 +2099,20 @@
         <mxCell id="LiYiQKgWh5elofrZuzCI-30" value="时效调整" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="13810" y="4054.5" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-31" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="13747.5" y="4294.5" width="810" height="150" as="geometry" />
+        <mxCell id="LiYiQKgWh5elofrZuzCI-31" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="13747.5" y="4283" width="810" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-32" value="动态调整" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="13791.5" y="4354.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="13791.5" y="4333.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-33" value="兜底T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14086.5" y="4351" width="120" height="60" as="geometry" />
+          <mxGeometry x="14086.5" y="4330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-34" value="出餐延迟补T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="14351.5" y="4353" width="120" height="60" as="geometry" />
+          <mxGeometry x="14351.5" y="4332" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-36" value="骑手T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="13791.5" y="4304.5" width="110" height="40" as="geometry" />
+          <mxGeometry x="13791.5" y="4293" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
