@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T03:30:39.128Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="FYM4HnQOArsrA4rYIGn9" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T03:35:56.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kqq27Ch5TvD-8jl_wnxv" version="22.0.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
     <mxGraphModel dx="-5602" dy="-276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2048,17 +2048,14 @@
         <mxCell id="gWo8qHtNNokZhxIOk0nq-151" value="行业" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;comic=0;" parent="1" vertex="1">
           <mxGeometry x="13010" y="2630" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-1" value="定制出餐T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="13800" y="3700" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-2" value="无出餐T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="13996" y="3700" width="120" height="60" as="geometry" />
+        <mxCell id="LiYiQKgWh5elofrZuzCI-1" value="非E定制出餐T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="13851" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-3" value="零售仓T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="14190" y="3700" width="120" height="60" as="geometry" />
+          <mxGeometry x="14115" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-4" value="餐饮出餐T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="14385" y="3700" width="120" height="60" as="geometry" />
+          <mxGeometry x="14360" y="3700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-10" value="出餐T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="13800" y="3650" width="110" height="40" as="geometry" />
@@ -2099,14 +2096,14 @@
         <mxCell id="LiYiQKgWh5elofrZuzCI-31" value="" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="13747.5" y="4283" width="810" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-32" value="走动态T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="14010" y="4330" width="120" height="60" as="geometry" />
+        <mxCell id="LiYiQKgWh5elofrZuzCI-32" value="动态T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="14027.5" y="4331.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-33" value="过兜底T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="14200" y="4331.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="14210" y="4331.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-34" value="出餐慢补T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="14385" y="4331.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="14400" y="4331.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-36" value="骑手T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="13791.5" y="4293" width="110" height="40" as="geometry" />
@@ -2119,6 +2116,18 @@
         </mxCell>
         <mxCell id="G9DEPlbx0Kw89tnabBZc-1" value="等于预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13820" y="4331.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-4" value="非E定制出餐T怎么配？怎么取？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="14580" y="3705" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-5" value="定制T：固定T，自设T，配置维度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="14580" y="3950" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-6" value="上限、下限，配置维度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="14590" y="4140" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-7" value="兜底T是否支持配置？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="14595" y="4354.5" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
