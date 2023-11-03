@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T03:35:56.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kqq27Ch5TvD-8jl_wnxv" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T03:36:02.877Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EiCuUh2LpZHEvr3yYQuw" version="22.0.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
     <mxGraphModel dx="-5602" dy="-276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2110,9 +2110,6 @@
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-37" value="T能力抽象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="13741" y="3567" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LiYiQKgWh5elofrZuzCI-48" value="定制T、上限、下限、规则、兜底T配置维度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="13980" y="4564.5" width="390" height="40" as="geometry" />
         </mxCell>
         <mxCell id="G9DEPlbx0Kw89tnabBZc-1" value="等于预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="13820" y="4331.5" width="120" height="60" as="geometry" />
