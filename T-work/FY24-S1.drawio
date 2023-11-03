@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T12:17:09.207Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="iNFs6hG7hlGzadYKk8vf" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T12:17:22.566Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="OxMa4xQCp9ZuDrjFRzyg" version="22.0.8" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
     <mxGraphModel dx="2694" dy="1189" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1126,7 +1126,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rHefj4VeQSDRfpVtZ79S-54" value="单详" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rHefj4VeQSDRfpVtZ79S-54" value="餐饮零售单详" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1440" y="5720" width="200" height="1200" as="geometry" />
         </mxCell>
         <mxCell id="rHefj4VeQSDRfpVtZ79S-55" value="零售确认改地址弹框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="rHefj4VeQSDRfpVtZ79S-54">
