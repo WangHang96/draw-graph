@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T07:33:31.757Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7LA6uP-6c6Wai1edeot5" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T09:24:51.196Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gL0teZL7lpq_ATQqyQtw" version="22.0.8" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
-    <mxGraphModel dx="3345" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3116" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -951,7 +951,7 @@
         <mxCell id="vuJFfAXSiF_ebnOAKfBE-62" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="vuJFfAXSiF_ebnOAKfBE-60" vertex="1">
           <mxGeometry x="45" y="370" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vuJFfAXSiF_ebnOAKfBE-63" value="携带平台T，咨询promise" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="vuJFfAXSiF_ebnOAKfBE-62" edge="1">
+        <mxCell id="vuJFfAXSiF_ebnOAKfBE-63" value="零售自配加T" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" parent="1" target="vuJFfAXSiF_ebnOAKfBE-62" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="634.3235294117653" y="6084.999999999999" as="sourcePoint" />
           </mxGeometry>
