@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T12:41:22.457Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QL5WIb8z6Isqy77t-Dzu" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T12:46:25.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1nf-Kn4WIZigIQzVWRqJ" version="22.0.8" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
     <mxGraphModel dx="2925" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1167,6 +1167,50 @@
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-51" value="更新询T主表extra，记录灰度标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3570" y="7200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-58" target="4DIZwFvrYTXgNfCaAB07-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-58" value="开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4429" y="5690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-59" target="4DIZwFvrYTXgNfCaAB07-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-59" value="查询T记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4429" y="5820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-61" target="4DIZwFvrYTXgNfCaAB07-65">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4369" y="5980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-61" target="4DIZwFvrYTXgNfCaAB07-66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4629" y="5980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-61" value="改地址新链路？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4409" y="5940" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-65" value="查改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4309" y="6110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-66" value="老逻辑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4569" y="6110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-68" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4306" y="5977" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-70" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4646" y="5967" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-71" value="加预测T、用户T、骑手T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4309" y="6230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
