@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T12:46:25.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="1nf-Kn4WIZigIQzVWRqJ" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T12:49:43.005Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pCvKqjwAPJtcT5nFm_wi" version="22.0.8" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
-    <mxGraphModel dx="2925" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3975" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1084,43 +1084,43 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-24" value="选择Handler" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="6650" width="120" height="60" as="geometry" />
+          <mxGeometry x="3400" y="6530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-25" target="4DIZwFvrYTXgNfCaAB07-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-25" value="参数校验" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="5810" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="5790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-26" target="4DIZwFvrYTXgNfCaAB07-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-26" value="分布式锁处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="5930" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="5900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-27" target="4DIZwFvrYTXgNfCaAB07-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-27" value="开放平台补充参数：询T次数、原始T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="6060" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="6010" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-28" target="4DIZwFvrYTXgNfCaAB07-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-28" value="查改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="6190" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="6120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-30" target="4DIZwFvrYTXgNfCaAB07-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-30" value="校验重复调用并返回" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="6310" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="6230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-31" target="4DIZwFvrYTXgNfCaAB07-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-31" value="查询T记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="6550" width="120" height="60" as="geometry" />
+          <mxGeometry x="3400" y="6430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-41" target="4DIZwFvrYTXgNfCaAB07-31">
           <mxGeometry relative="1" as="geometry" />
@@ -1129,44 +1129,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-41" value="零售自配？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3545" y="6440" width="170" height="80" as="geometry" />
+          <mxGeometry x="3545" y="6340" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-44" target="4DIZwFvrYTXgNfCaAB07-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3790" y="6870" />
-              <mxPoint x="3630" y="6870" />
+              <mxPoint x="3790" y="6730" />
+              <mxPoint x="3630" y="6730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-44" value="查零售自配新T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3730" y="6630" width="120" height="60" as="geometry" />
+          <mxGeometry x="3730" y="6530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-47" target="4DIZwFvrYTXgNfCaAB07-49">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3460" y="6870" />
-              <mxPoint x="3630" y="6870" />
+              <mxPoint x="3460" y="6730" />
+              <mxPoint x="3630" y="6730" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-47" value="计算新T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3400" y="6750" width="120" height="60" as="geometry" />
+          <mxGeometry x="3400" y="6630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-49" target="4DIZwFvrYTXgNfCaAB07-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-49" value="构建改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="6940" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="6770" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-50" target="4DIZwFvrYTXgNfCaAB07-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-50" value="保存改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="7070" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="6874" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-51" value="更新询T主表extra，记录灰度标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="7200" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="6980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-58" target="4DIZwFvrYTXgNfCaAB07-59">
           <mxGeometry relative="1" as="geometry" />
@@ -1197,11 +1197,22 @@
         <mxCell id="4DIZwFvrYTXgNfCaAB07-61" value="改地址新链路？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4409" y="5940" width="160" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-65" target="4DIZwFvrYTXgNfCaAB07-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-65" value="查改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4309" y="6110" width="120" height="60" as="geometry" />
+          <mxGeometry x="4309" y="6070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-66" target="4DIZwFvrYTXgNfCaAB07-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4626" y="6420" />
+              <mxPoint x="4510" y="6420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-66" value="老逻辑" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4569" y="6110" width="120" height="60" as="geometry" />
+          <mxGeometry x="4566" y="6190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-68" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4306" y="5977" width="40" height="40" as="geometry" />
@@ -1209,8 +1220,25 @@
         <mxCell id="4DIZwFvrYTXgNfCaAB07-70" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4646" y="5967" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-71" target="4DIZwFvrYTXgNfCaAB07-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-71" value="加预测T、用户T、骑手T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4309" y="6230" width="120" height="60" as="geometry" />
+          <mxGeometry x="4309" y="6190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-72" target="4DIZwFvrYTXgNfCaAB07-75">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4369" y="6420" />
+              <mxPoint x="4510" y="6420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-72" value="更新询T记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4309" y="6310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-75" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4449" y="6460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
