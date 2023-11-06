@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T12:22:14.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pX4U4rjkiWo2jlZWpgH4" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T12:35:43.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xAXgRbD8S0StfJGODxlk" version="22.0.8" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
     <mxGraphModel dx="2925" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1074,32 +1074,77 @@
         <mxCell id="4DIZwFvrYTXgNfCaAB07-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="rHefj4VeQSDRfpVtZ79S-25" target="rHefj4VeQSDRfpVtZ79S-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-23" target="4DIZwFvrYTXgNfCaAB07-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-23" value="开始" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3570" y="5690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-24" target="4DIZwFvrYTXgNfCaAB07-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-24" value="选择Handler" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="5820" width="120" height="60" as="geometry" />
+          <mxGeometry x="3350" y="6690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-25" target="4DIZwFvrYTXgNfCaAB07-26">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-25" value="参数校验" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="5960" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="5810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-26" target="4DIZwFvrYTXgNfCaAB07-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-26" value="分布式锁处理" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="6090" width="120" height="60" as="geometry" />
+          <mxGeometry x="3570" y="5930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4DIZwFvrYTXgNfCaAB07-27" value="开放平台补充参数：询T次数" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3520" y="6220" width="120" height="60" as="geometry" />
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-27" target="4DIZwFvrYTXgNfCaAB07-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4DIZwFvrYTXgNfCaAB07-28" value="查询改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="6340" width="120" height="60" as="geometry" />
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-27" value="开放平台补充参数：询T次数、原始T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="6060" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4DIZwFvrYTXgNfCaAB07-30" value="重复调用则返回" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="6460" width="120" height="60" as="geometry" />
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-28" target="4DIZwFvrYTXgNfCaAB07-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4DIZwFvrYTXgNfCaAB07-31" value="查询改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3570" y="6580" width="120" height="60" as="geometry" />
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-28" value="查改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="6190" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4DIZwFvrYTXgNfCaAB07-32" value="开放平台补充参数：原始T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3680" y="6220" width="120" height="60" as="geometry" />
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-30" target="4DIZwFvrYTXgNfCaAB07-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-30" value="校验重复调用并返回" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="6310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-31" target="4DIZwFvrYTXgNfCaAB07-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-31" value="查询T记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="6570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-41" target="4DIZwFvrYTXgNfCaAB07-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-41" target="4DIZwFvrYTXgNfCaAB07-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-41" value="零售自配？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3545" y="6440" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-44" value="查零售自配新T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="6570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-47" value="计算新T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3350" y="6810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-49" value="构建改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="6940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-50" value="保存改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="7070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-51" value="更新询T主表extra，记录灰度标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3570" y="7200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
