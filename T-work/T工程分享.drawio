@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T03:37:47.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="0wgA1-ei_7vp7_Jpsptd" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T02:47:31.800Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EYlKEBz0OQ8BG9Aku-4f" version="22.0.8" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
-    <mxGraphModel dx="-5602" dy="-276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-5345" dy="-226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2111,19 +2111,19 @@
         <mxCell id="LiYiQKgWh5elofrZuzCI-37" value="T能力抽象" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="13741" y="3590" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G9DEPlbx0Kw89tnabBZc-1" value="等于预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-1" value="等于预测T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13820" y="4331.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G9DEPlbx0Kw89tnabBZc-4" value="非E定制出餐T怎么配？怎么取？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-4" value="非E定制出餐T怎么配？怎么取？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="14580" y="3705" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G9DEPlbx0Kw89tnabBZc-5" value="定制T：固定T，自设T，配置维度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-5" value="定制T：固定T，自设T，配置维度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="14580" y="3950" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G9DEPlbx0Kw89tnabBZc-6" value="上限、下限，配置维度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-6" value="上限、下限，配置维度？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="14590" y="4140" width="220" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="G9DEPlbx0Kw89tnabBZc-7" value="兜底T是否支持配置？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="G9DEPlbx0Kw89tnabBZc-7" value="兜底T是否支持配置？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="14595" y="4354.5" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
