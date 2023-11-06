@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-06T12:35:43.829Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="xAXgRbD8S0StfJGODxlk" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-06T12:36:21.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="eQfaT9KsqPSIDZYzJCrE" version="22.0.8" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
     <mxGraphModel dx="2925" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1084,7 +1084,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-24" value="选择Handler" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="6690" width="120" height="60" as="geometry" />
+          <mxGeometry x="3350" y="6650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-25" target="4DIZwFvrYTXgNfCaAB07-26">
           <mxGeometry relative="1" as="geometry" />
@@ -1120,7 +1120,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-31" value="查询T记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="6570" width="120" height="60" as="geometry" />
+          <mxGeometry x="3350" y="6550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-41" target="4DIZwFvrYTXgNfCaAB07-31">
           <mxGeometry relative="1" as="geometry" />
@@ -1131,11 +1131,27 @@
         <mxCell id="4DIZwFvrYTXgNfCaAB07-41" value="零售自配？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3545" y="6440" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-44" target="4DIZwFvrYTXgNfCaAB07-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3830" y="6870" />
+              <mxPoint x="3630" y="6870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-44" value="查零售自配新T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3770" y="6570" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4DIZwFvrYTXgNfCaAB07-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4DIZwFvrYTXgNfCaAB07-47" target="4DIZwFvrYTXgNfCaAB07-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3410" y="6870" />
+              <mxPoint x="3630" y="6870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-47" value="计算新T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="6810" width="120" height="60" as="geometry" />
+          <mxGeometry x="3350" y="6750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4DIZwFvrYTXgNfCaAB07-49" value="构建改地址记录" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3570" y="6940" width="120" height="60" as="geometry" />
