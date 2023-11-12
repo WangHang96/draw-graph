@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:26:47.577Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="y5q_v3BmAIP2enVypAGj" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:28:08.500Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Sl3s4Q71u4oROlnCOM0u" version="22.1.0" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
-    <mxGraphModel dx="-5947" dy="-404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-5385" dy="-116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15915" y="4050" width="805" height="350" as="geometry" />
+          <mxGeometry x="15915" y="4019.5" width="805" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15940" y="4100" width="750" height="126.5" as="geometry" />
+          <mxGeometry x="15940" y="4069.5" width="750" height="126.5" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-2" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15940" y="4240" width="750" height="130" as="geometry" />
+          <mxGeometry x="15940" y="4209.5" width="750" height="130" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-83" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="14980" y="4700.5" width="767.5" height="480.5" as="geometry" />
@@ -26,16 +26,16 @@
           <mxGeometry x="15018.5" y="5029" width="690" height="110" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-65" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15915" y="4509.5" width="795" height="810" as="geometry" />
+          <mxGeometry x="15915" y="4509.5" width="815" height="810" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-62" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="16110" y="4721.75" width="550" height="390" as="geometry" />
+          <mxGeometry x="16110" y="4721.75" width="560" height="390" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-49" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="16456" y="4787" width="174" height="295.5" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-44" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="16110" y="5143.25" width="550" height="126.75" as="geometry" />
+          <mxGeometry x="16110" y="5143.25" width="560" height="126.75" as="geometry" />
         </mxCell>
         <mxCell id="LiYiQKgWh5elofrZuzCI-11" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="14850" y="3356.5" width="810" height="451" as="geometry" />
@@ -2229,7 +2229,7 @@
           <mxGeometry x="16483" y="4971" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-55" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="16110" y="4576.75" width="550" height="123.25" as="geometry" />
+          <mxGeometry x="16110" y="4576.75" width="560" height="123.25" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-56" value="过上限" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="16148" y="4619.5" width="120" height="60" as="geometry" />
@@ -2316,31 +2316,34 @@
           <mxGeometry x="13490" y="4340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-1" value="初始骑手T规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15980" y="4286.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="15980" y="4256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-3" value="过动态T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16363" y="4286.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="16363" y="4256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-5" value="过兜底T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16540" y="4286.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="16540" y="4256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-6" value="分流询T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16175" y="4286.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="16175" y="4256" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-7" value="骑手T生成能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15950" y="4246.5" width="140" height="40" as="geometry" />
+          <mxGeometry x="15950" y="4216" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-8" value="出餐延迟加T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="15990" y="4144.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="15990" y="4114" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-9" value="卡餐报备加T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16250" y="4144.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="16250" y="4114" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-10" value="改地址加T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="16540" y="4144.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="16540" y="4114" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-12" value="骑手T加T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15940" y="4104.5" width="140" height="40" as="geometry" />
+          <mxGeometry x="15940" y="4074" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-16" value="骑手T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15915" y="4019.5" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
