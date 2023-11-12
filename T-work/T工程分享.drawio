@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T04:03:38.710Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VHSqGQMmamvRiR7xRccC" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T04:04:10.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="bYMJeGhVmWbzkMAy54Hx" version="22.1.0" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
     <mxGraphModel dx="-4700" dy="234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2216,7 +2216,7 @@
         <mxCell id="In9LqjF2ltfh1j322ajC-42" value="定制出餐T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="15974.5" y="4664" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="In9LqjF2ltfh1j322ajC-45" value="配送能力的冲突如何处理？&lt;br&gt;餐零在配送T上的区别在哪？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="In9LqjF2ltfh1j322ajC-45" value="平级能力的冲突如何处理？&lt;br&gt;餐零在配送T上的区别在哪？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="16069.5" y="4880.5" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-48" value="常规配送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
