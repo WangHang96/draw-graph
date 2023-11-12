@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:00:52.595Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3CoZhxhGab-O2jXH8jlS" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:03:39.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XrJ8YK7eiyBERnNysIV3" version="22.1.0" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
     <mxGraphModel dx="-6414" dy="-643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2273,9 +2273,6 @@
         <mxCell id="In9LqjF2ltfh1j322ajC-84" value="用户T能力" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="14927" y="4699" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="In9LqjF2ltfh1j322ajC-86" value="todo 骑手T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="17020" y="5018.5" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-89" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=27.27272727272727;endSize=17.799999999999997;endWidth=36.66666666666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="16750" y="4937.82" as="sourcePoint" />
@@ -2312,8 +2309,8 @@
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-1" value="初始骑手T规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="17030" y="4839" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-2" value="骑手T规则" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="17210" y="4699" width="120" height="60" as="geometry" />
+        <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-2" value="骑手T能力" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17000" y="4694" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-3" value="过动态T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="17350" y="4839" width="120" height="60" as="geometry" />
@@ -2321,7 +2318,7 @@
         <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-5" value="过兜底T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="17500" y="4837" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-6" value="分流询T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Lwlm1ZXtij_bmC4Gx2Lq-6" value="分流询T？" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="17190" y="4839" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
