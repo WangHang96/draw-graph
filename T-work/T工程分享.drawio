@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T03:08:21.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NJQgDJA-xDDNwSJJtHS8" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T03:09:09.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XYzv-pLbMWzcSxNHDFP9" version="22.1.0" type="github">
   <diagram id="vkke_k_2h1ItV-8YdydP" name="第 1 页">
-    <mxGraphModel dx="-5797" dy="-327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-5385" dy="-116" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           <mxGeometry x="15018.5" y="5029" width="690" height="110" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-65" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="15915" y="4509.5" width="805" height="810" as="geometry" />
+          <mxGeometry x="15915" y="4509.5" width="795" height="810" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-62" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="16110" y="4721.75" width="550" height="390" as="geometry" />
@@ -2210,8 +2210,8 @@
         <mxCell id="In9LqjF2ltfh1j322ajC-42" value="定制出餐T" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="16483" y="5192.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="In9LqjF2ltfh1j322ajC-45" value="配送能力的冲突如何处理？&lt;br&gt;餐零模型的区别在哪？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="16210" y="5343" width="240" height="60" as="geometry" />
+        <mxCell id="In9LqjF2ltfh1j322ajC-45" value="配送能力的冲突如何处理？&lt;br&gt;餐零在配送T上的区别在哪？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="16205" y="5343" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="In9LqjF2ltfh1j322ajC-48" value="常规配送" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="16493" y="4812.5" width="100" height="40" as="geometry" />
