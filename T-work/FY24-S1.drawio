@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T08:32:40.179Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="IDAsL7pG_xkSDsIpdD1E" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T08:33:03.600Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="EOH_N71PhdpwSN1Oy5R0" version="22.1.1" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
     <mxGraphModel dx="2401" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -700,7 +700,7 @@
         <mxCell id="iKSU4RRUJnlbGcBl0aYI-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="3Exbib5A5v8eoecC-QsX-1" vertex="1">
           <mxGeometry x="56" y="170" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKSU4RRUJnlbGcBl0aYI-7" value="判断是否存在询T缓存？" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="3Exbib5A5v8eoecC-QsX-1" target="iKSU4RRUJnlbGcBl0aYI-6" edge="1">
+        <mxCell id="iKSU4RRUJnlbGcBl0aYI-7" value="&lt;font color=&quot;#ff2f0f&quot;&gt;判断是否存在询T缓存？&lt;/font&gt;" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="3Exbib5A5v8eoecC-QsX-1" target="iKSU4RRUJnlbGcBl0aYI-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="65" y="150" as="sourcePoint" />
             <Array as="points">
