@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T03:32:29.387Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-Per9K05UU4uLCZWhi00" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T06:22:34.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Awoy3R4RolUc6uyADhF8" version="22.1.3" type="github">
   <diagram name="第 1 页" id="QRqXihMADhNC4GcBK6MP">
-    <mxGraphModel dx="2390" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -419,6 +419,72 @@
         </mxCell>
         <mxCell id="jC5KR1oz6UxNJPEy1PF8-142" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2420" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-151" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="4060" y="440" width="20" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-152" value="T" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="4370" y="440" width="100" height="940" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-153" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry x="45" y="110" width="10" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-156" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry x="55" y="160" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-157" value="计算骑手T" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="jC5KR1oz6UxNJPEy1PF8-156" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-158" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry x="55" y="280" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-159" value="运单id + 骑手id + T + mask，签名" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="jC5KR1oz6UxNJPEy1PF8-158" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="90" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-154" value="接单前询骑手T" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="jC5KR1oz6UxNJPEy1PF8-153" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300.67647058823513" y="115" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-155" value="T+签名" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="jC5KR1oz6UxNJPEy1PF8-153" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300.67647058823513" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-160" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry x="46" y="480" width="10" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-163" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry x="56" y="530" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-164" value="运单id + 骑手id + T + mask，验签" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="jC5KR1oz6UxNJPEy1PF8-163" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="61" y="510" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="91" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-161" value="骑手接单，T+签名" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="jC5KR1oz6UxNJPEy1PF8-160" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry x="-0.0005" relative="1" as="geometry">
+            <mxPoint x="-300.67647058823513" y="485.0000000000002" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-162" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="jC5KR1oz6UxNJPEy1PF8-160" parent="jC5KR1oz6UxNJPEy1PF8-152">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-300.67647058823513" y="704.9999999999998" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
