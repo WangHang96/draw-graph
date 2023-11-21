@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T06:39:32.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w821TsNA4BS67IxI4W--" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T06:41:03.967Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="HV6_LN7_YQw2ZIrBH2ri" version="22.1.3" type="github">
   <diagram name="第 1 页" id="QRqXihMADhNC4GcBK6MP">
-    <mxGraphModel dx="1912" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -491,11 +491,38 @@
         <mxCell id="jC5KR1oz6UxNJPEy1PF8-165" value="骑手作业" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="5400" y="440" width="100" height="770" as="geometry" />
         </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-168" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jC5KR1oz6UxNJPEy1PF8-165">
+          <mxGeometry x="45" y="140" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-169" value="骑手拉单" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="jC5KR1oz6UxNJPEy1PF8-168" parent="jC5KR1oz6UxNJPEy1PF8-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-25" y="145" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-170" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=-5;" edge="1" source="jC5KR1oz6UxNJPEy1PF8-168" parent="jC5KR1oz6UxNJPEy1PF8-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-30" y="255" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jC5KR1oz6UxNJPEy1PF8-166" value="apollo" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="5650" y="440" width="100" height="770" as="geometry" />
         </mxCell>
         <mxCell id="jC5KR1oz6UxNJPEy1PF8-167" value="T" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="5880" y="440" width="100" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-171" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="jC5KR1oz6UxNJPEy1PF8-167">
+          <mxGeometry x="45" y="160" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-173" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5450" y="660" as="targetPoint" />
+            <mxPoint x="5925.5" y="660" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jC5KR1oz6UxNJPEy1PF8-172" value="询骑手T" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=5;" edge="1" target="jC5KR1oz6UxNJPEy1PF8-171" parent="1" source="jC5KR1oz6UxNJPEy1PF8-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5855" y="645" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
