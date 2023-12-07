@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T14:58:17.298Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sNBkMUCUp-q_vyZH_YBR" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T15:00:47.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3vv-A49-T7SaTAtMpiMW" version="22.1.7" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
-    <mxGraphModel dx="3212" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2190" dy="1846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,6 +111,33 @@
             <mxPoint x="760" y="20" as="sourcePoint" />
             <mxPoint x="860" y="-80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-65" value="提单询用户T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-66" value="下单询用户T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-67" value="入单询预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3290" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-68" value="分流询骑手T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3610" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-69" value="作业询骑手T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3900" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-70" value="确认运力" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4250" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-71" value="改地址" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4580" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-72" value="报备加T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4890" y="-330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-73" value="出餐补时" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5210" y="-330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
