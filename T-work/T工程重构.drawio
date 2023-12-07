@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T15:56:58.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hHyaqk08ZE5nu7apPeB4" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-07T15:58:33.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="W6DTgW5NAG3D7cKMlTHf" version="22.1.7" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
-    <mxGraphModel dx="3212" dy="2354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2417" dy="1959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,19 +113,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-66" value="下单询用户T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-330" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-67" value="入单询预测T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3290" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-180" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-68" value="分流询骑手T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3610" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="-40" y="1253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-69" value="作业询骑手T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3900" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="1250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-70" value="确认运力" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4250" y="-330" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="1253" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-71" value="改地址" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="4580" y="-330" width="120" height="60" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="5210" y="-330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-74" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;询用户&lt;br&gt;提单/下单差异总结&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2150" y="-470" width="260" height="50" as="geometry" />
+          <mxGeometry x="2150" y="-430" width="260" height="50" as="geometry" />
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5gtfUiYYgIrYR47HqZrA-76" target="5gtfUiYYgIrYR47HqZrA-84">
           <mxGeometry relative="1" as="geometry">
@@ -183,6 +183,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5gtfUiYYgIrYR47HqZrA-84" target="5gtfUiYYgIrYR47HqZrA-105">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3150" y="-350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2980" y="60" />
+              <mxPoint x="2980" y="-450" />
+              <mxPoint x="3300" y="-450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-106" value="展开" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5gtfUiYYgIrYR47HqZrA-103">
+          <mxGeometry x="-0.4704" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-84" value="新询T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="30" width="120" height="60" as="geometry" />
         </mxCell>
@@ -224,6 +239,9 @@
         </mxCell>
         <mxCell id="5gtfUiYYgIrYR47HqZrA-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5gtfUiYYgIrYR47HqZrA-85" target="5gtfUiYYgIrYR47HqZrA-85">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5gtfUiYYgIrYR47HqZrA-105" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3240" y="-380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
