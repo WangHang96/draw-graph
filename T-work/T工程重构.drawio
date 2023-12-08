@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T09:52:55.452Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OXf1HWgDpxxUxylGTHoc" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T09:55:36.859Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ERVmZLLLkd68w9QJC56F" version="22.1.7" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="3434" dy="2560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -355,6 +355,24 @@
         </mxCell>
         <mxCell id="K0B4q0zZ-ZlsoghsB4aM-47" value="新询T" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3240" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-49" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3580" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-50" value="bmbs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3910" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-51" value="自配送" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-52" value="开放平台" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4050" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-53" value="高德" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4180" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-54" value="分段履约" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4320" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
