@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T09:31:50.874Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DsK5HNkuW9OyHKTK-Cw2" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T09:33:59.311Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pa-ewgw-w5tknz3EU4jV" version="22.1.7" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="3217" dy="2242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -279,14 +279,14 @@
         <mxCell id="K0B4q0zZ-ZlsoghsB4aM-15" value="能力标签&lt;br&gt;提单ads带" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3920" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-17" value="卡餐系数&lt;br&gt;演绎消费" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3690" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-17" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="-165" width="180" height="300" as="geometry" />
         </mxCell>
         <mxCell id="K0B4q0zZ-ZlsoghsB4aM-19" value="商户品类&lt;br&gt;演绎消费" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3680" y="275" width="120" height="60" as="geometry" />
+          <mxGeometry x="4120" y="35" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0B4q0zZ-ZlsoghsB4aM-21" value="网格压力" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3840" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="4120" y="-125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K0B4q0zZ-ZlsoghsB4aM-24" value="查楼层" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3690" y="-380" width="120" height="60" as="geometry" />
@@ -299,6 +299,15 @@
         </mxCell>
         <mxCell id="K0B4q0zZ-ZlsoghsB4aM-28" value="内部串行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3930" y="-425" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-29" value="卡餐系数&lt;br&gt;演绎消费" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4120" y="-45" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-30" value="内部并行" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4120" y="-170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K0B4q0zZ-ZlsoghsB4aM-31" value="预分流" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3880" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
