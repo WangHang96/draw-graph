@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T08:08:53.962Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZlCK68dwn1ZWE_Esgo8g" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T08:10:49.890Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="txLWSmnv7aOd_n_M-b_S" version="22.1.7" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="2417" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -434,7 +434,7 @@
           <mxGeometry x="3810" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j1E3PI4-q5CCPXzSKbCA-35" value="CustomerTEntity" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="1120" width="310" height="280" as="geometry" />
+          <mxGeometry x="-240" y="1060" width="310" height="280" as="geometry" />
         </mxCell>
         <mxCell id="j1E3PI4-q5CCPXzSKbCA-36" value="+ uniqueKey&lt;br&gt;+ predictTEntityList&lt;br&gt;+ adjustAddressEntityList&lt;br&gt;&lt;br&gt;+ customerTDto&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;+ matchedCustomerTRuleVO&lt;br&gt;+ condition" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j1E3PI4-q5CCPXzSKbCA-35">
           <mxGeometry y="26" width="310" height="204" as="geometry" />
@@ -446,19 +446,19 @@
           <mxGeometry y="238" width="310" height="42" as="geometry" />
         </mxCell>
         <mxCell id="j1E3PI4-q5CCPXzSKbCA-40" value="PredictTEntity" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1040" width="330" height="300" as="geometry" />
+          <mxGeometry x="300" y="1060" width="340" height="330" as="geometry" />
         </mxCell>
         <mxCell id="j1E3PI4-q5CCPXzSKbCA-41" value="+ uniqueKey&lt;br&gt;+ carrierTEntity&lt;br&gt;+ adjustPredictTEntityList&lt;br&gt;&lt;br&gt;+ predictTDto&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+&amp;nbsp;carrierTForDispatchDtoList&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;+ matchedPredictTStrategyVO&lt;br&gt;+ condition" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j1E3PI4-q5CCPXzSKbCA-40">
-          <mxGeometry y="26" width="330" height="224" as="geometry" />
+          <mxGeometry y="26" width="340" height="224" as="geometry" />
         </mxCell>
         <mxCell id="j1E3PI4-q5CCPXzSKbCA-42" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="j1E3PI4-q5CCPXzSKbCA-40">
-          <mxGeometry y="250" width="330" height="8" as="geometry" />
+          <mxGeometry y="250" width="340" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="j1E3PI4-q5CCPXzSKbCA-43" value="+ adjustPredictT(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j1E3PI4-q5CCPXzSKbCA-40">
-          <mxGeometry y="258" width="330" height="42" as="geometry" />
+        <mxCell id="j1E3PI4-q5CCPXzSKbCA-43" value="+ adjustPredictT(type): type&lt;br&gt;+ predictForDispatch(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j1E3PI4-q5CCPXzSKbCA-40">
+          <mxGeometry y="258" width="340" height="72" as="geometry" />
         </mxCell>
         <mxCell id="j1E3PI4-q5CCPXzSKbCA-45" value="carrierTEntity" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1030" width="310" height="250" as="geometry" />
+          <mxGeometry x="850" y="1060" width="310" height="250" as="geometry" />
         </mxCell>
         <mxCell id="j1E3PI4-q5CCPXzSKbCA-46" value="+ uniqueKey&lt;br&gt;+ adjusCarrierTEntityList&lt;br&gt;&lt;br&gt;+ carrierTDto&lt;br&gt;&lt;br&gt;+ matchedCarrierTStrategyVO&lt;br&gt;+ condition" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="j1E3PI4-q5CCPXzSKbCA-45">
           <mxGeometry y="26" width="310" height="174" as="geometry" />
