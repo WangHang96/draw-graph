@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T13:53:36.955Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vIyOaXt0bmsfpu1LBSNJ" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T13:54:35.966Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="odVerq95BchbRIKnnu_8" version="22.1.11" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="4228" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -603,6 +603,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2tqALb7JNDnn6POCCFjh-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2tqALb7JNDnn6POCCFjh-19" target="2tqALb7JNDnn6POCCFjh-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-19" value="预测T1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1200" y="275" width="120" height="60" as="geometry" />
         </mxCell>
@@ -613,6 +616,9 @@
               <mxPoint x="-890" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2tqALb7JNDnn6POCCFjh-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2tqALb7JNDnn6POCCFjh-20" target="2tqALb7JNDnn6POCCFjh-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-20" value="预测T2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1020" y="275" width="120" height="60" as="geometry" />
@@ -625,6 +631,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="2tqALb7JNDnn6POCCFjh-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2tqALb7JNDnn6POCCFjh-21" target="2tqALb7JNDnn6POCCFjh-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-21" value="预测Tn" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-770" y="280" width="120" height="60" as="geometry" />
         </mxCell>
@@ -633,6 +642,15 @@
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-30" value="分段配送履约T规则&lt;br&gt;/单段T规则" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-880" y="110" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2tqALb7JNDnn6POCCFjh-31" value="骑手T1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2tqALb7JNDnn6POCCFjh-32" value="骑手T2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1020" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2tqALb7JNDnn6POCCFjh-33" value="骑手Tn" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-770" y="410" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
