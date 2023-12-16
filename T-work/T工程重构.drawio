@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T14:11:18.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tNfOIwd2OwLhTtdnoH6A" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T14:11:29.383Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="r67xt90TAzeB9JNKGHX9" version="22.1.11" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="5882" dy="2005" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -677,10 +677,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-60" value="strategyVO" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;shape=ellipse;perimeter=ellipsePerimeter;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="-2920" y="1086" width="118" height="65" as="geometry" />
+          <mxGeometry x="-2920" y="1130" width="118" height="65" as="geometry" />
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-61" value="ruleVO" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;shape=ellipse;perimeter=ellipsePerimeter;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="-2710" y="1086" width="110" height="65" as="geometry" />
+          <mxGeometry x="-2710" y="1130" width="110" height="65" as="geometry" />
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-62" value="carrierTForDispatchVo" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;shape=ellipse;perimeter=ellipsePerimeter;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="-2920" y="1515" width="190" height="65" as="geometry" />
@@ -705,8 +705,8 @@
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-67" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2tqALb7JNDnn6POCCFjh-60" target="2tqALb7JNDnn6POCCFjh-61">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="-2790" y="1111" as="sourcePoint" />
-            <mxPoint x="-2690" y="1011" as="targetPoint" />
+            <mxPoint x="-2790" y="1155" as="sourcePoint" />
+            <mxPoint x="-2690" y="1055" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-70" value="performanceT" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
