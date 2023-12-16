@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-16T14:03:34.055Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="6ilCQhTh6fNkjhe1S6XV" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-16T14:03:50.139Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="LAGYbMNaLCjSt7Ww15SL" version="22.1.11" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="5737" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -682,8 +682,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2tqALb7JNDnn6POCCFjh-59" value="perdictT bounded context" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-3000" y="895" width="230" height="40" as="geometry" />
+        <mxCell id="2tqALb7JNDnn6POCCFjh-59" value="logisticsT bounded context" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3005" y="895" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-60" value="strategyVO" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;shape=ellipse;perimeter=ellipsePerimeter;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="-3000" y="1055" width="118" height="65" as="geometry" />
