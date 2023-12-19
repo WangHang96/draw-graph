@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T14:48:49.156Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vS0Uqj9JPilu2BvTeYce" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-19T14:49:05.547Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="uRg-9baK3nf24VGN4vsO" version="22.1.11" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="4866" dy="2319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -692,10 +692,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_BvOgRvypzXzqoTsYN06-2" value="入参校验" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="2060" width="510" height="60" as="geometry" />
+          <mxGeometry x="1020" y="2090" width="510" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_BvOgRvypzXzqoTsYN06-4" value="前置信息补充&lt;br&gt;TB设置city和物品数量" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="2152.5" width="510" height="77.5" as="geometry" />
+          <mxGeometry x="1020" y="2162.5" width="510" height="77.5" as="geometry" />
         </mxCell>
         <mxCell id="_BvOgRvypzXzqoTsYN06-5" value="查商户详情" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1241" y="2260" width="120" height="60" as="geometry" />
