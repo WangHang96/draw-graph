@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T09:22:25.727Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4kiZZ_AlcE6AWbZ5cpjF" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T12:43:22.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sM9KUG97mmKUdt_MLtz7" version="22.1.11" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
-    <mxGraphModel dx="3033" dy="985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2514" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1315,10 +1315,19 @@
           <mxGeometry x="430" y="9130" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8ijjRsge24vOxn_AKhTO-34" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214.5" y="9260" width="550" height="250" as="geometry" />
+          <mxGeometry x="344.5" y="9260" width="335.5" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="8ijjRsge24vOxn_AKhTO-37" value="&lt;div&gt;OrderTimePredictApplicationService&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="9290" width="300" height="50" as="geometry" />
+        <mxCell id="8ijjRsge24vOxn_AKhTO-38" value="零售T0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="9280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ijjRsge24vOxn_AKhTO-39" value="餐饮T0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="9280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ijjRsge24vOxn_AKhTO-40" value="末端校准" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="392" y="9352" width="246" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8ijjRsge24vOxn_AKhTO-41" value="演绎" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="9430" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
