@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T02:29:05.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cEjAI8UVT31aLpQ0xTFK" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T02:30:31.762Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="zgPscACBFgv_-7VJXqqA" version="22.1.18" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
     <mxGraphModel dx="3116" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1532,7 +1532,7 @@
         <mxCell id="E6jZgOcZ10YIm4Plughl-108" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="E6jZgOcZ10YIm4Plughl-71" vertex="1">
           <mxGeometry x="55" y="620" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E6jZgOcZ10YIm4Plughl-109" value="更新子询T记录子单T" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="E6jZgOcZ10YIm4Plughl-71" target="E6jZgOcZ10YIm4Plughl-108" edge="1">
+        <mxCell id="E6jZgOcZ10YIm4Plughl-109" value="子单加T并更新记录" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="E6jZgOcZ10YIm4Plughl-71" target="E6jZgOcZ10YIm4Plughl-108" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="63" y="600" as="sourcePoint" />
             <Array as="points">
@@ -1644,7 +1644,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E6jZgOcZ10YIm4Plughl-114" value="&lt;font color=&quot;#ff3912&quot;&gt;apollo需要保证重新询T时，主单先询T，子单后询T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="11480" width="430" height="40" as="geometry" />
+          <mxGeometry x="1790" y="11480" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
