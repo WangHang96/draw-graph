@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-15T02:27:22.304Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FQa5Ovb_JHy349cCFYzn" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-15T02:29:05.624Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cEjAI8UVT31aLpQ0xTFK" version="22.1.18" type="github">
   <diagram name="第 1 页" id="yyyUMbDe88qkvpOYkLpJ">
-    <mxGraphModel dx="2308" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3116" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1643,8 +1643,8 @@
             <mxPoint x="1800" y="11304.999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E6jZgOcZ10YIm4Plughl-114" value="&lt;font color=&quot;#ff3912&quot;&gt;风险：ADS询T是订单维度，无法感知子单，只能在重新询T时感知，&lt;br&gt;但子单在主单前询T会丢失加T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1695" y="11510" width="570" height="60" as="geometry" />
+        <mxCell id="E6jZgOcZ10YIm4Plughl-114" value="&lt;font color=&quot;#ff3912&quot;&gt;apollo需要保证重新询T时，主单先询T，子单后询T&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="11480" width="430" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
