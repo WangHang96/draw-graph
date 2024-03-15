@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T08:24:03.357Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="o4iZqsC2tJ0pCNxcmrUZ" version="24.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T08:32:13.786Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tpfO7bhoQEd7abphVgDY" version="24.0.1" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="4647" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -439,11 +439,11 @@
         <mxCell id="j1E3PI4-q5CCPXzSKbCA-74" value="PredictTDomainService" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="3330" y="451" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="j1E3PI4-q5CCPXzSKbCA-75" value="&lt;div&gt;订单视角&lt;/div&gt;1.询用户T&lt;br&gt;2.改地址询T" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="2670" y="521" width="120" height="80" as="geometry" />
+        <mxCell id="j1E3PI4-q5CCPXzSKbCA-75" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;领域方法&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;1.询用户T&lt;br&gt;2.改地址询T&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;接口&lt;/div&gt;&lt;div&gt;1.提单询T&lt;/div&gt;&lt;div&gt;2.下单询T&lt;/div&gt;&lt;div&gt;3.改地址接口&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2660" y="501" width="130" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="j1E3PI4-q5CCPXzSKbCA-77" value="&lt;div&gt;运单视角&lt;/div&gt;1.预测T、骑手T&lt;div&gt;2.加骑手T、&lt;span style=&quot;background-color: initial;&quot;&gt;预测T&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="3355" y="530" width="170" height="100" as="geometry" />
+        <mxCell id="j1E3PI4-q5CCPXzSKbCA-77" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;领域方法&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.预测T、骑手T&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2.加骑手T、&lt;span style=&quot;background-color: initial;&quot;&gt;预测T&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;接口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.查预测T、骑手T&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.根据运单参数重算T&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.接单&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;4.报备、自动加T等&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="3345" y="455" width="190" height="250" as="geometry" />
         </mxCell>
         <mxCell id="2tqALb7JNDnn6POCCFjh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2tqALb7JNDnn6POCCFjh-2" target="2tqALb7JNDnn6POCCFjh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -793,11 +793,20 @@
         <mxCell id="_BvOgRvypzXzqoTsYN06-44" value="策略包解析" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1031" y="2510" width="509" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="TWToO2yfhbnqHnSei70y-1" value="&lt;div&gt;物流履约视角&lt;/div&gt;1&lt;span style=&quot;background-color: initial;&quot;&gt;.询整段预测T&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.改地址询T&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="3007" y="510" width="140" height="80" as="geometry" />
+        <mxCell id="TWToO2yfhbnqHnSei70y-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;领域方法&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;.询整段预测T&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.改地址询T&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;接口&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1.询预测T&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;2.改地址接口&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3020" y="520" width="140" height="190" as="geometry" />
         </mxCell>
         <mxCell id="TWToO2yfhbnqHnSei70y-2" value="PerformanceTDomainService" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2970" y="451" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TWToO2yfhbnqHnSei70y-3" value="订单视角" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2696" y="397" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TWToO2yfhbnqHnSei70y-4" value="&lt;div&gt;物流履约视角&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3011" y="397" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TWToO2yfhbnqHnSei70y-5" value="&lt;div&gt;运单视角&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3370" y="397" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
