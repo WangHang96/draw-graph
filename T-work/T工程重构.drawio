@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T09:29:15.958Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FvavvSkSFiR8CobDipr2" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T09:38:46.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_NjFqe-uIpPjnpzP61zJ" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="4770" dy="2454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -856,6 +856,9 @@
         <mxCell id="YqwPoLPXoP6z3zH8YHSw-25" value="骑手T" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-2110" y="4580" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="YqwPoLPXoP6z3zH8YHSw-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YqwPoLPXoP6z3zH8YHSw-26" target="YqwPoLPXoP6z3zH8YHSw-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YqwPoLPXoP6z3zH8YHSw-26" value="交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2100" y="4150" width="120" height="60" as="geometry" />
         </mxCell>
@@ -867,6 +870,9 @@
               <mxPoint x="-1980" y="4310" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YqwPoLPXoP6z3zH8YHSw-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqwPoLPXoP6z3zH8YHSw-28" target="YqwPoLPXoP6z3zH8YHSw-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YqwPoLPXoP6z3zH8YHSw-28" value="开放平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-2290" y="4030" width="120" height="60" as="geometry" />
@@ -891,6 +897,9 @@
               <mxPoint x="-1840" y="4510" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YqwPoLPXoP6z3zH8YHSw-34" value="创建运单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1810" y="4210" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
