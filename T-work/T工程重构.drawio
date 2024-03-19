@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T10:06:13.486Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MUI8mq-tLwCfgc1O0WoO" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-19T10:06:31.544Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="MyTaicf0P40UYs9YFvVG" version="24.0.7" type="github">
   <diagram name="第 1 页" id="Sy9umP3xg3mDAJ2cGHKU">
     <mxGraphModel dx="4770" dy="2454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -874,12 +874,12 @@
         <mxCell id="YqwPoLPXoP6z3zH8YHSw-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YqwPoLPXoP6z3zH8YHSw-28" target="YqwPoLPXoP6z3zH8YHSw-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1640" y="4520" />
+              <mxPoint x="-1640" y="4560" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YqwPoLPXoP6z3zH8YHSw-28" value="开放平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1880" y="4490" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1870" y="4530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YqwPoLPXoP6z3zH8YHSw-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YqwPoLPXoP6z3zH8YHSw-30" target="YqwPoLPXoP6z3zH8YHSw-42">
           <mxGeometry relative="1" as="geometry">
