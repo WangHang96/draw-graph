@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="phrF3lBX6Lt7OEs9k7r2">
-    <mxGraphModel dx="2178" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1878" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,7 +132,7 @@
           <mxGeometry x="120" y="178" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4XA3E3U3NZwfJgwgNvVz-35" value="创建/更新" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="215" width="70" height="30" as="geometry" />
+          <mxGeometry x="379" y="215" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4XA3E3U3NZwfJgwgNvVz-40" value="运单变更事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="460" y="280" width="100" height="30" as="geometry" />
@@ -221,6 +221,18 @@
         </mxCell>
         <mxCell id="4XA3E3U3NZwfJgwgNvVz-72" value="运单数据变更事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="1070" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4XA3E3U3NZwfJgwgNvVz-75" value="platform&lt;div&gt;产品层应用&lt;br&gt;&lt;div&gt;收口所有外域的更新操作&lt;/div&gt;&lt;div&gt;以及业务维度的补偿&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="-140" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4XA3E3U3NZwfJgwgNvVz-76" value="core&lt;div&gt;核心领域层&lt;/div&gt;&lt;div&gt;收口所有的写操作&lt;/div&gt;&lt;div&gt;状态变更&lt;/div&gt;&lt;div&gt;领域事件&lt;/div&gt;&lt;div&gt;消息发送&lt;/div&gt;&lt;div&gt;不外调，也不对外提供服务&lt;/div&gt;&lt;div&gt;定义统一model包，供域内外使用&lt;/div&gt;&lt;div&gt;定义data-model包，仅core和query使用&lt;/div&gt;&lt;div&gt;定义data-model到model的映射工具类&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="-12" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4XA3E3U3NZwfJgwgNvVz-78" value="query&lt;div&gt;统一查询服务&lt;/div&gt;&lt;div&gt;封装所有数据源，屏蔽数据源差异&lt;/div&gt;&lt;div&gt;按biz_code做精细化限流熔断&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="190" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4XA3E3U3NZwfJgwgNvVz-79" value="streaming&lt;div&gt;异构数据写入&lt;/div&gt;&lt;div&gt;保障异构数据最终一致性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="320" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
